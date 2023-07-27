@@ -1,0 +1,604 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D06EB9B2A664F1800ECAA9C /* ListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EB9A2A664F1800ECAA9C /* ListItem.swift */; };
+		3D06EBB12A665C2100ECAA9C /* Media.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBB02A665C2100ECAA9C /* Media.swift */; };
+		3D06EBB32A66604300ECAA9C /* ConsolesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBB22A66604300ECAA9C /* ConsolesList.swift */; };
+		3D06EBB52A66607800ECAA9C /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBB42A66607800ECAA9C /* Book.swift */; };
+		3D06EBBD2A67BFC500ECAA9C /* Media.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D06EBBC2A67BFC500ECAA9C /* Media.json */; };
+		3D06EBBF2A67CF8300ECAA9C /* VideoGames.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D06EBBE2A67CF8300ECAA9C /* VideoGames.json */; };
+		3D06EBC12A68217300ECAA9C /* Systems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBC02A68217300ECAA9C /* Systems.swift */; };
+		3D06EBC32A683BDC00ECAA9C /* GamesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBC22A683BDC00ECAA9C /* GamesList.swift */; };
+		3D06EBC52A6859F600ECAA9C /* ItemsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBC42A6859F600ECAA9C /* ItemsList.swift */; };
+		3D06EBC72A686E0B00ECAA9C /* MovieList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D06EBC62A686E0B00ECAA9C /* MovieList.swift */; };
+		3D4C53692A4FD13D003E334F /* Stash_HouseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4C53682A4FD13D003E334F /* Stash_HouseApp.swift */; };
+		3D4C536B2A4FD13D003E334F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4C536A2A4FD13D003E334F /* ContentView.swift */; };
+		3D4C536D2A4FD13F003E334F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D4C536C2A4FD13F003E334F /* Assets.xcassets */; };
+		3D4C53702A4FD13F003E334F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D4C536F2A4FD13F003E334F /* Preview Assets.xcassets */; };
+		3D6074462A66169F00F3874A /* CardListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6074452A66169F00F3874A /* CardListItem.swift */; };
+		3DC620F62A611BBE0093F6B6 /* Topps88CG.json in Resources */ = {isa = PBXBuildFile; fileRef = 3DC620F52A611BBE0093F6B6 /* Topps88CG.json */; };
+		3DC620F82A61288A0093F6B6 /* BundleDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC620F72A61288A0093F6B6 /* BundleDecoder.swift */; };
+		3DC620FA2A61331B0093F6B6 /* Topps88CGCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC620F92A61331B0093F6B6 /* Topps88CGCard.swift */; };
+		3DC620FF2A6134420093F6B6 /* CardsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC620FE2A6134420093F6B6 /* CardsList.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3D06EB9A2A664F1800ECAA9C /* ListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItem.swift; sourceTree = "<group>"; };
+		3D06EBB02A665C2100ECAA9C /* Media.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Media.swift; sourceTree = "<group>"; };
+		3D06EBB22A66604300ECAA9C /* ConsolesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsolesList.swift; sourceTree = "<group>"; };
+		3D06EBB42A66607800ECAA9C /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		3D06EBBC2A67BFC500ECAA9C /* Media.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Media.json; sourceTree = "<group>"; };
+		3D06EBBE2A67CF8300ECAA9C /* VideoGames.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = VideoGames.json; sourceTree = "<group>"; };
+		3D06EBC02A68217300ECAA9C /* Systems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Systems.swift; sourceTree = "<group>"; };
+		3D06EBC22A683BDC00ECAA9C /* GamesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamesList.swift; sourceTree = "<group>"; };
+		3D06EBC42A6859F600ECAA9C /* ItemsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemsList.swift; sourceTree = "<group>"; };
+		3D06EBC62A686E0B00ECAA9C /* MovieList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieList.swift; sourceTree = "<group>"; };
+		3D4C53652A4FD13D003E334F /* Stash House.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Stash House.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D4C53682A4FD13D003E334F /* Stash_HouseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stash_HouseApp.swift; sourceTree = "<group>"; };
+		3D4C536A2A4FD13D003E334F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3D4C536C2A4FD13F003E334F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3D4C536F2A4FD13F003E334F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3D6074452A66169F00F3874A /* CardListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardListItem.swift; sourceTree = "<group>"; };
+		3DC620F52A611BBE0093F6B6 /* Topps88CG.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Topps88CG.json; sourceTree = "<group>"; };
+		3DC620F72A61288A0093F6B6 /* BundleDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleDecoder.swift; sourceTree = "<group>"; };
+		3DC620F92A61331B0093F6B6 /* Topps88CGCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Topps88CGCard.swift; sourceTree = "<group>"; };
+		3DC620FE2A6134420093F6B6 /* CardsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsList.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D4C53622A4FD13D003E334F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D06EB992A664ED500ECAA9C /* ListItem */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBA02A66571D00ECAA9C /* Views */,
+				3D06EB9F2A66571100ECAA9C /* Models */,
+			);
+			path = ListItem;
+			sourceTree = "<group>";
+		};
+		3D06EB9C2A6656A100ECAA9C /* Media */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBAD2A665B1500ECAA9C /* Music */,
+				3D06EBAC2A665AF200ECAA9C /* Movies */,
+			);
+			path = Media;
+			sourceTree = "<group>";
+		};
+		3D06EB9D2A6656CF00ECAA9C /* Video Games */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBA22A66575100ECAA9C /* View */,
+				3D06EBA52A66577200ECAA9C /* Model */,
+				3D06EBB62A67A93100ECAA9C /* JSON */,
+			);
+			path = "Video Games";
+			sourceTree = "<group>";
+		};
+		3D06EB9E2A6656F100ECAA9C /* Cards */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBA32A66575A00ECAA9C /* View */,
+				3D06EBA42A66576400ECAA9C /* Model */,
+			);
+			path = Cards;
+			sourceTree = "<group>";
+		};
+		3D06EB9F2A66571100ECAA9C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBA92A66596A00ECAA9C /* Books */,
+				3D06EB9C2A6656A100ECAA9C /* Media */,
+				3D06EB9D2A6656CF00ECAA9C /* Video Games */,
+				3D06EB9E2A6656F100ECAA9C /* Cards */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3D06EBA02A66571D00ECAA9C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EB9A2A664F1800ECAA9C /* ListItem.swift */,
+				3D06EBC42A6859F600ECAA9C /* ItemsList.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3D06EBA12A66574700ECAA9C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBC62A686E0B00ECAA9C /* MovieList.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3D06EBA22A66575100ECAA9C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBB22A66604300ECAA9C /* ConsolesList.swift */,
+				3D06EBC22A683BDC00ECAA9C /* GamesList.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3D06EBA32A66575A00ECAA9C /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3D06EBA42A66576400ECAA9C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3DC620FB2A6133BA0093F6B6 /* Topps88Cards */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D06EBA52A66577200ECAA9C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBC02A68217300ECAA9C /* Systems.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D06EBA62A66577B00ECAA9C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBB02A665C2100ECAA9C /* Media.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D06EBA92A66596A00ECAA9C /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBAA2A66597700ECAA9C /* View */,
+				3D06EBAB2A66597D00ECAA9C /* Model */,
+			);
+			path = Books;
+			sourceTree = "<group>";
+		};
+		3D06EBAA2A66597700ECAA9C /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3D06EBAB2A66597D00ECAA9C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBB42A66607800ECAA9C /* Book.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D06EBAC2A665AF200ECAA9C /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBA12A66574700ECAA9C /* View */,
+				3D06EBA62A66577B00ECAA9C /* Model */,
+				3D06EBBB2A67BFA300ECAA9C /* JSON */,
+			);
+			path = Movies;
+			sourceTree = "<group>";
+		};
+		3D06EBAD2A665B1500ECAA9C /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBAE2A665B2A00ECAA9C /* View */,
+				3D06EBAF2A665B3B00ECAA9C /* Model */,
+			);
+			path = Music;
+			sourceTree = "<group>";
+		};
+		3D06EBAE2A665B2A00ECAA9C /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3D06EBAF2A665B3B00ECAA9C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D06EBB62A67A93100ECAA9C /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBBE2A67CF8300ECAA9C /* VideoGames.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		3D06EBBB2A67BFA300ECAA9C /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				3D06EBBC2A67BFC500ECAA9C /* Media.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		3D4C535C2A4FD13D003E334F = {
+			isa = PBXGroup;
+			children = (
+				3D4C53672A4FD13D003E334F /* Stash House */,
+				3D4C53662A4FD13D003E334F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3D4C53662A4FD13D003E334F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D4C53652A4FD13D003E334F /* Stash House.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D4C53672A4FD13D003E334F /* Stash House */ = {
+			isa = PBXGroup;
+			children = (
+				3D4C53682A4FD13D003E334F /* Stash_HouseApp.swift */,
+				3D4C536A2A4FD13D003E334F /* ContentView.swift */,
+				3D4C536C2A4FD13F003E334F /* Assets.xcassets */,
+				3D4C536E2A4FD13F003E334F /* Preview Content */,
+				3D06EB992A664ED500ECAA9C /* ListItem */,
+				3DC620F72A61288A0093F6B6 /* BundleDecoder.swift */,
+			);
+			path = "Stash House";
+			sourceTree = "<group>";
+		};
+		3D4C536E2A4FD13F003E334F /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3D4C536F2A4FD13F003E334F /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3D6DBEA42A687A3200ACA448 /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				3DC620F52A611BBE0093F6B6 /* Topps88CG.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
+		3DC620FB2A6133BA0093F6B6 /* Topps88Cards */ = {
+			isa = PBXGroup;
+			children = (
+				3DC620FD2A6133EF0093F6B6 /* View */,
+				3DC620FC2A6133DF0093F6B6 /* Model */,
+				3D6DBEA42A687A3200ACA448 /* JSON */,
+			);
+			path = Topps88Cards;
+			sourceTree = "<group>";
+		};
+		3DC620FC2A6133DF0093F6B6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3DC620F92A61331B0093F6B6 /* Topps88CGCard.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3DC620FD2A6133EF0093F6B6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3DC620FE2A6134420093F6B6 /* CardsList.swift */,
+				3D6074452A66169F00F3874A /* CardListItem.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D4C53642A4FD13D003E334F /* Stash House */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D4C53732A4FD13F003E334F /* Build configuration list for PBXNativeTarget "Stash House" */;
+			buildPhases = (
+				3D4C53612A4FD13D003E334F /* Sources */,
+				3D4C53622A4FD13D003E334F /* Frameworks */,
+				3D4C53632A4FD13D003E334F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Stash House";
+			productName = "Stash House";
+			productReference = 3D4C53652A4FD13D003E334F /* Stash House.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D4C535D2A4FD13D003E334F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					3D4C53642A4FD13D003E334F = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 3D4C53602A4FD13D003E334F /* Build configuration list for PBXProject "Stash House" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3D4C535C2A4FD13D003E334F;
+			productRefGroup = 3D4C53662A4FD13D003E334F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D4C53642A4FD13D003E334F /* Stash House */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D4C53632A4FD13D003E334F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D06EBBD2A67BFC500ECAA9C /* Media.json in Resources */,
+				3D06EBBF2A67CF8300ECAA9C /* VideoGames.json in Resources */,
+				3D4C53702A4FD13F003E334F /* Preview Assets.xcassets in Resources */,
+				3DC620F62A611BBE0093F6B6 /* Topps88CG.json in Resources */,
+				3D4C536D2A4FD13F003E334F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D4C53612A4FD13D003E334F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DC620FA2A61331B0093F6B6 /* Topps88CGCard.swift in Sources */,
+				3D06EB9B2A664F1800ECAA9C /* ListItem.swift in Sources */,
+				3D06EBC32A683BDC00ECAA9C /* GamesList.swift in Sources */,
+				3D06EBC72A686E0B00ECAA9C /* MovieList.swift in Sources */,
+				3D4C536B2A4FD13D003E334F /* ContentView.swift in Sources */,
+				3D06EBB52A66607800ECAA9C /* Book.swift in Sources */,
+				3D06EBC12A68217300ECAA9C /* Systems.swift in Sources */,
+				3D06EBC52A6859F600ECAA9C /* ItemsList.swift in Sources */,
+				3D6074462A66169F00F3874A /* CardListItem.swift in Sources */,
+				3D06EBB12A665C2100ECAA9C /* Media.swift in Sources */,
+				3D06EBB32A66604300ECAA9C /* ConsolesList.swift in Sources */,
+				3D4C53692A4FD13D003E334F /* Stash_HouseApp.swift in Sources */,
+				3DC620F82A61288A0093F6B6 /* BundleDecoder.swift in Sources */,
+				3DC620FF2A6134420093F6B6 /* CardsList.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3D4C53712A4FD13F003E334F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3D4C53722A4FD13F003E334F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3D4C53742A4FD13F003E334F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Stash House/Preview Content\"";
+				DEVELOPMENT_TEAM = 6CD78A686T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Justin-Trubela.Stash-House";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3D4C53752A4FD13F003E334F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Stash House/Preview Content\"";
+				DEVELOPMENT_TEAM = 6CD78A686T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Justin-Trubela.Stash-House";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D4C53602A4FD13D003E334F /* Build configuration list for PBXProject "Stash House" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D4C53712A4FD13F003E334F /* Debug */,
+				3D4C53722A4FD13F003E334F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D4C53732A4FD13F003E334F /* Build configuration list for PBXNativeTarget "Stash House" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D4C53742A4FD13F003E334F /* Debug */,
+				3D4C53752A4FD13F003E334F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3D4C535D2A4FD13D003E334F /* Project object */;
+}
