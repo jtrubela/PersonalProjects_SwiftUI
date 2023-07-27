@@ -1,0 +1,3174 @@
+[
+    {
+        "cardNumber": 1,
+        "cardTitle": "Vince Coleman - Record Breaker"
+    },
+    {
+        "cardNumber": 2,
+        "cardTitle": "Don Mattingly - Record Breaker"
+    },
+    {
+        "cardNumber": 3,
+        "cardTitle": "Mark McGwire - Record Breaker"
+    },
+    {
+        "cardNumber": 4,
+        "cardTitle": "Eddie Murray - Record Breaker"
+    },
+    {
+        "cardNumber": 5,
+        "cardTitle": "Phil Niekro - Record Breaker"
+    },
+    {
+        "cardNumber": 6,
+        "cardTitle": "Nolan Ryan - Record Breaker"
+    },
+    {
+        "cardNumber": 7,
+        "cardTitle": "Benito Santiago - Record Breaker"
+    },
+    {
+        "cardNumber": 8,
+        "cardTitle": "Kevin Elster"
+    },
+    {
+        "cardNumber": 9,
+        "cardTitle": "Andy Hawkins"
+    },
+    {
+        "cardNumber": 10,
+        "cardTitle": "Ryne Sandberg"
+    },
+    {
+        "cardNumber": 11,
+        "cardTitle": "Mike Young"
+    },
+    {
+        "cardNumber": 12,
+        "cardTitle": "Bill Schroeder"
+    },
+    {
+        "cardNumber": 13,
+        "cardTitle": "Andres Thomas"
+    },
+    {
+        "cardNumber": 14,
+        "cardTitle": "Sparky Anderson - Manager"
+    },
+    {
+        "cardNumber": 15,
+        "cardTitle": "Chili Davis"
+    },
+    {
+        "cardNumber": 16,
+        "cardTitle": "Kirk McCaskill"
+    },
+    {
+        "cardNumber": 17,
+        "cardTitle": "Ron Oester"
+    },
+    {
+        "cardNumber": 18,
+        "cardTitle": "Al Leiter"
+    },
+    {
+        "cardNumber": 19,
+        "cardTitle": "Mark Davidson"
+    },
+    {
+        "cardNumber": 20,
+        "cardTitle": "Kevin Gross"
+    },
+    {
+        "cardNumber": 21,
+        "cardTitle": "Wade Boggs/Spike Owen - Red Sox Leaders"
+    },
+    {
+        "cardNumber": 22,
+        "cardTitle": "Greg Swindell"
+    },
+    {
+        "cardNumber": 23,
+        "cardTitle": "Ken Landreaux"
+    },
+    {
+        "cardNumber": 24,
+        "cardTitle": "Jim Deshaies"
+    },
+    {
+        "cardNumber": 25,
+        "cardTitle": "Andres Galarraga"
+    },
+    {
+        "cardNumber": 26,
+        "cardTitle": "Mitch Williams"
+    },
+    {
+        "cardNumber": 27,
+        "cardTitle": "R.J. Reynolds"
+    },
+    {
+        "cardNumber": 28,
+        "cardTitle": "Jose Nunez"
+    },
+    {
+        "cardNumber": 29,
+        "cardTitle": "Angel Salazar"
+    },
+    {
+        "cardNumber": 30,
+        "cardTitle": "Sid Fernandez"
+    },
+    {
+        "cardNumber": 31,
+        "cardTitle": "Bruce Bochy"
+    },
+    {
+        "cardNumber": 32,
+        "cardTitle": "Mike Morgan"
+    },
+    {
+        "cardNumber": 33,
+        "cardTitle": "Rob Deer"
+    },
+    {
+        "cardNumber": 34,
+        "cardTitle": "Ricky Horton"
+    },
+    {
+        "cardNumber": 35,
+        "cardTitle": "Harold Baines"
+    },
+    {
+        "cardNumber": 36,
+        "cardTitle": "Jamie Moyer"
+    },
+    {
+        "cardNumber": 37,
+        "cardTitle": "Ed Romero"
+    },
+    {
+        "cardNumber": 38,
+        "cardTitle": "Jeff Calhoun"
+    },
+    {
+        "cardNumber": 39,
+        "cardTitle": "Gerald Perry"
+    },
+    {
+        "cardNumber": 40,
+        "cardTitle": "Orel Hershiser"
+    },
+    {
+        "cardNumber": 41,
+        "cardTitle": "Bob Melvin"
+    },
+    {
+        "cardNumber": 42,
+        "cardTitle": "Bill Landrum"
+    },
+    {
+        "cardNumber": 43,
+        "cardTitle": "Dick Schofield"
+    },
+    {
+        "cardNumber": 44,
+        "cardTitle": "Lou Piniella - Manager"
+    },
+    {
+        "cardNumber": 45,
+        "cardTitle": "Kent Hrbek"
+    },
+    {
+        "cardNumber": 46,
+        "cardTitle": "Darnell Coles"
+    },
+    {
+        "cardNumber": 47,
+        "cardTitle": "Joaquin Andujar"
+    },
+    {
+        "cardNumber": 48,
+        "cardTitle": "Alan Ashby"
+    },
+    {
+        "cardNumber": 49,
+        "cardTitle": "Dave Clark"
+    },
+    {
+        "cardNumber": 50,
+        "cardTitle": "Hubie Brooks"
+    },
+    {
+        "cardNumber": 51,
+        "cardTitle": "Cal Ripken, Jr./Eddie Murray - Orioles Leaders"
+    },
+    {
+        "cardNumber": 52,
+        "cardTitle": "Don Robinson"
+    },
+    {
+        "cardNumber": 53,
+        "cardTitle": "Curtis Wilkerson"
+    },
+    {
+        "cardNumber": 54,
+        "cardTitle": "Jim Clancy"
+    },
+    {
+        "cardNumber": 55,
+        "cardTitle": "Phil Bradley"
+    },
+    {
+        "cardNumber": 56,
+        "cardTitle": "Ed Hearne"
+    },
+    {
+        "cardNumber": 57,
+        "cardTitle": "Tim Crews"
+    },
+    {
+        "cardNumber": 58,
+        "cardTitle": "Dave Magadan"
+    },
+    {
+        "cardNumber": 59,
+        "cardTitle": "Danny Cox"
+    },
+    {
+        "cardNumber": 60,
+        "cardTitle": "Rickey Henderson"
+    },
+    {
+        "cardNumber": 61,
+        "cardTitle": "Mark Knudson"
+    },
+    {
+        "cardNumber": 62,
+        "cardTitle": "Jeff Hamilton"
+    },
+    {
+        "cardNumber": 63,
+        "cardTitle": "Jimmy Jones"
+    },
+    {
+        "cardNumber": 64,
+        "cardTitle": "Ken Caminiti"
+    },
+    {
+        "cardNumber": 65,
+        "cardTitle": "Leon Durham"
+    },
+    {
+        "cardNumber": 66,
+        "cardTitle": "Shane Rawley"
+    },
+    {
+        "cardNumber": 67,
+        "cardTitle": "Ken Oberkfell"
+    },
+    {
+        "cardNumber": 68,
+        "cardTitle": "Dave Dravecky"
+    },
+    {
+        "cardNumber": 69,
+        "cardTitle": "Mike Hart"
+    },
+    {
+        "cardNumber": 70,
+        "cardTitle": "Roger Clemens"
+    },
+    {
+        "cardNumber": 71,
+        "cardTitle": "Gary Pettis"
+    },
+    {
+        "cardNumber": 72,
+        "cardTitle": "Dennis Eckersley"
+    },
+    {
+        "cardNumber": 73,
+        "cardTitle": "Randy Bush"
+    },
+    {
+        "cardNumber": 74,
+        "cardTitle": "Tommy Lasorda - Manager"
+    },
+    {
+        "cardNumber": 75,
+        "cardTitle": "Joe Carter"
+    },
+    {
+        "cardNumber": 76,
+        "cardTitle": "Dennis Martinez"
+    },
+    {
+        "cardNumber": 77,
+        "cardTitle": "Tom O'Malley"
+    },
+    {
+        "cardNumber": 78,
+        "cardTitle": "Dan Petry"
+    },
+    {
+        "cardNumber": 79,
+        "cardTitle": "Ernie Whitt"
+    },
+    {
+        "cardNumber": 80,
+        "cardTitle": "Mark Langston"
+    },
+    {
+        "cardNumber": 81,
+        "cardTitle": "Ron Robinson/John Franco - Reds Leaders"
+    },
+    {
+        "cardNumber": 82,
+        "cardTitle": "Darrel Akerfelds"
+    },
+    {
+        "cardNumber": 83,
+        "cardTitle": "Jose Oquendo"
+    },
+    {
+        "cardNumber": 84,
+        "cardTitle": "Cecilio Guante"
+    },
+    {
+        "cardNumber": 85,
+        "cardTitle": "Howard Johnson"
+    },
+    {
+        "cardNumber": 86,
+        "cardTitle": "Ron Karkovice"
+    },
+    {
+        "cardNumber": 87,
+        "cardTitle": "Mike Mason"
+    },
+    {
+        "cardNumber": 88,
+        "cardTitle": "Ernest Riles"
+    },
+    {
+        "cardNumber": 89,
+        "cardTitle": "Gary Thurman"
+    },
+    {
+        "cardNumber": 90,
+        "cardTitle": "Dale Murphy"
+    },
+    {
+        "cardNumber": 91,
+        "cardTitle": "Joey Cora"
+    },
+    {
+        "cardNumber": 92,
+        "cardTitle": "Len Matuszek"
+    },
+    {
+        "cardNumber": 93,
+        "cardTitle": "Bob Sebra"
+    },
+    {
+        "cardNumber": 94,
+        "cardTitle": "Charlie Jackson"
+    },
+    {
+        "cardNumber": 95,
+        "cardTitle": "Lance Parrish"
+    },
+    {
+        "cardNumber": 96,
+        "cardTitle": "Todd Benzinger"
+    },
+    {
+        "cardNumber": 97,
+        "cardTitle": "Scott Garrelts"
+    },
+    {
+        "cardNumber": 98,
+        "cardTitle": "Rene Gonzales"
+    },
+    {
+        "cardNumber": 99,
+        "cardTitle": "Chuck Finley"
+    },
+    {
+        "cardNumber": 100,
+        "cardTitle": "Jack Clark"
+    },
+    {
+        "cardNumber": 101,
+        "cardTitle": "Alf Anderson"
+    },
+    {
+        "cardNumber": 102,
+        "cardTitle": "Barry Larkin"
+    },
+    {
+        "cardNumber": 103,
+        "cardTitle": "Curt Young"
+    },
+    {
+        "cardNumber": 104,
+        "cardTitle": "Dick Williams - Manager"
+    },
+    {
+        "cardNumber": 105,
+        "cardTitle": "Jesse Orosco"
+    },
+    {
+        "cardNumber": 106,
+        "cardTitle": "Jim Walewander"
+    },
+    {
+        "cardNumber": 107,
+        "cardTitle": "Scott Bailes"
+    },
+    {
+        "cardNumber": 108,
+        "cardTitle": "Steve Lyons"
+    },
+    {
+        "cardNumber": 109,
+        "cardTitle": "Joel Skinner"
+    },
+    {
+        "cardNumber": 110,
+        "cardTitle": "Teddy Higuera"
+    },
+    {
+        "cardNumber": 111,
+        "cardTitle": "Hubie Brooks/Vance Law - Expos Leaders"
+    },
+    {
+        "cardNumber": 112,
+        "cardTitle": "Les Lancaster"
+    },
+    {
+        "cardNumber": 113,
+        "cardTitle": "Kelly Gruber"
+    },
+    {
+        "cardNumber": 114,
+        "cardTitle": "Jeff Russell"
+    },
+    {
+        "cardNumber": 115,
+        "cardTitle": "Johnny Ray"
+    },
+    {
+        "cardNumber": 116,
+        "cardTitle": "Jerry Don Gleaton"
+    },
+    {
+        "cardNumber": 117,
+        "cardTitle": "Jim Steels"
+    },
+    {
+        "cardNumber": 118,
+        "cardTitle": "Bob Welch"
+    },
+    {
+        "cardNumber": 119,
+        "cardTitle": "Robbie Wine"
+    },
+    {
+        "cardNumber": 120,
+        "cardTitle": "Kirby Puckett"
+    },
+    {
+        "cardNumber": 121,
+        "cardTitle": "Checklist 1-132"
+    },
+    {
+        "cardNumber": 122,
+        "cardTitle": "Tony Bernazard"
+    },
+    {
+        "cardNumber": 123,
+        "cardTitle": "Tom Candiotti"
+    },
+    {
+        "cardNumber": 124,
+        "cardTitle": "Ray Knight"
+    },
+    {
+        "cardNumber": 125,
+        "cardTitle": "Bruce Hurst"
+    },
+    {
+        "cardNumber": 126,
+        "cardTitle": "Steve Jeltz"
+    },
+    {
+        "cardNumber": 127,
+        "cardTitle": "Jim Gott"
+    },
+    {
+        "cardNumber": 128,
+        "cardTitle": "Johnny Grubb"
+    },
+    {
+        "cardNumber": 129,
+        "cardTitle": "Greg Minton"
+    },
+    {
+        "cardNumber": 130,
+        "cardTitle": "Buddy Bell"
+    },
+    {
+        "cardNumber": 131,
+        "cardTitle": "Don Schulze"
+    },
+    {
+        "cardNumber": 132,
+        "cardTitle": "Donnie Hill"
+    },
+    {
+        "cardNumber": 133,
+        "cardTitle": "Greg Mathews"
+    },
+    {
+        "cardNumber": 134,
+        "cardTitle": "Chuck Tanner - Manager"
+    },
+    {
+        "cardNumber": 135,
+        "cardTitle": "Dennis Rasmussen"
+    },
+    {
+        "cardNumber": 136,
+        "cardTitle": "Brian Dayett"
+    },
+    {
+        "cardNumber": 137,
+        "cardTitle": "Chris Bosio"
+    },
+    {
+        "cardNumber": 138,
+        "cardTitle": "Mitch Webster"
+    },
+    {
+        "cardNumber": 139,
+        "cardTitle": "Jerry Browne"
+    },
+    {
+        "cardNumber": 140,
+        "cardTitle": "Jesse Barfield"
+    },
+    {
+        "cardNumber": 141,
+        "cardTitle": "George Brett/Bret Saberhagen - Royals Leaders"
+    },
+    {
+        "cardNumber": 142,
+        "cardTitle": "Andy Van Slyke"
+    },
+    {
+        "cardNumber": 143,
+        "cardTitle": "Mickey Tettleton"
+    },
+    {
+        "cardNumber": 144,
+        "cardTitle": "Don Gordon"
+    },
+    {
+        "cardNumber": 145,
+        "cardTitle": "Bill Madlock"
+    },
+    {
+        "cardNumber": 146,
+        "cardTitle": "Donell Nixon"
+    },
+    {
+        "cardNumber": 147,
+        "cardTitle": "Bill Buckner"
+    },
+    {
+        "cardNumber": 148,
+        "cardTitle": "Carmelo Martinez"
+    },
+    {
+        "cardNumber": 149,
+        "cardTitle": "Ken Howell"
+    },
+    {
+        "cardNumber": 150,
+        "cardTitle": "Eric Davis"
+    },
+    {
+        "cardNumber": 151,
+        "cardTitle": "Bob Knepper"
+    },
+    {
+        "cardNumber": 152,
+        "cardTitle": "Jody Reed"
+    },
+    {
+        "cardNumber": 153,
+        "cardTitle": "John Habyan"
+    },
+    {
+        "cardNumber": 154,
+        "cardTitle": "Jeff Stone"
+    },
+    {
+        "cardNumber": 155,
+        "cardTitle": "Bruce Sutter"
+    },
+    {
+        "cardNumber": 156,
+        "cardTitle": "Gary Matthews"
+    },
+    {
+        "cardNumber": 157,
+        "cardTitle": "Atlee Hammaker"
+    },
+    {
+        "cardNumber": 158,
+        "cardTitle": "Tim Hulett"
+    },
+    {
+        "cardNumber": 159,
+        "cardTitle": "Brad Arnsberg"
+    },
+    {
+        "cardNumber": 160,
+        "cardTitle": "Willie McGee"
+    },
+    {
+        "cardNumber": 161,
+        "cardTitle": "Bryn Smith"
+    },
+    {
+        "cardNumber": 162,
+        "cardTitle": "Mark McLemore"
+    },
+    {
+        "cardNumber": 163,
+        "cardTitle": "Dale Mohorcic"
+    },
+    {
+        "cardNumber": 164,
+        "cardTitle": "Davey Johnson - Manager"
+    },
+    {
+        "cardNumber": 165,
+        "cardTitle": "Robin Yount"
+    },
+    {
+        "cardNumber": 166,
+        "cardTitle": "Rick Rodriguez"
+    },
+    {
+        "cardNumber": 167,
+        "cardTitle": "Rance Mulliniks"
+    },
+    {
+        "cardNumber": 168,
+        "cardTitle": "Barry Jones"
+    },
+    {
+        "cardNumber": 169,
+        "cardTitle": "Ross Jones"
+    },
+    {
+        "cardNumber": 170,
+        "cardTitle": "Goose Gossage"
+    },
+    {
+        "cardNumber": 171,
+        "cardTitle": "Shawon Dunston/Manny Trillo - Cubs Leaders"
+    },
+    {
+        "cardNumber": 172,
+        "cardTitle": "Lloyd McClendon"
+    },
+    {
+        "cardNumber": 173,
+        "cardTitle": "Eric Plunk"
+    },
+    {
+        "cardNumber": 174,
+        "cardTitle": "Phil Garner"
+    },
+    {
+        "cardNumber": 175,
+        "cardTitle": "Kevin Bass"
+    },
+    {
+        "cardNumber": 176,
+        "cardTitle": "Jeff Reed"
+    },
+    {
+        "cardNumber": 177,
+        "cardTitle": "Frank Tanana"
+    },
+    {
+        "cardNumber": 178,
+        "cardTitle": "Dwayne Henry"
+    },
+    {
+        "cardNumber": 179,
+        "cardTitle": "Charlie Puleo"
+    },
+    {
+        "cardNumber": 180,
+        "cardTitle": "Terry Kennedy"
+    },
+    {
+        "cardNumber": 181,
+        "cardTitle": "David Cone"
+    },
+    {
+        "cardNumber": 182,
+        "cardTitle": "Ken Phelps"
+    },
+    {
+        "cardNumber": 183,
+        "cardTitle": "Tom Lawless"
+    },
+    {
+        "cardNumber": 184,
+        "cardTitle": "Ivan Calderon"
+    },
+    {
+        "cardNumber": 185,
+        "cardTitle": "Rick Rhoden"
+    },
+    {
+        "cardNumber": 186,
+        "cardTitle": "Rafael Palmeiro"
+    },
+    {
+        "cardNumber": 187,
+        "cardTitle": "Steve Kiefer"
+    },
+    {
+        "cardNumber": 188,
+        "cardTitle": "John Russell"
+    },
+    {
+        "cardNumber": 189,
+        "cardTitle": "Wes Gardner"
+    },
+    {
+        "cardNumber": 190,
+        "cardTitle": "Candy Maldonado"
+    },
+    {
+        "cardNumber": 191,
+        "cardTitle": "John Cerutti"
+    },
+    {
+        "cardNumber": 192,
+        "cardTitle": "Devon White"
+    },
+    {
+        "cardNumber": 193,
+        "cardTitle": "Brian Fisher"
+    },
+    {
+        "cardNumber": 194,
+        "cardTitle": "Tom Kelly - Manager"
+    },
+    {
+        "cardNumber": 195,
+        "cardTitle": "Dan Quisenberry"
+    },
+    {
+        "cardNumber": 196,
+        "cardTitle": "Dave Engle"
+    },
+    {
+        "cardNumber": 197,
+        "cardTitle": "Lance McCullers"
+    },
+    {
+        "cardNumber": 198,
+        "cardTitle": "Franklin Stubbs"
+    },
+    {
+        "cardNumber": 199,
+        "cardTitle": "Dave Meads"
+    },
+    {
+        "cardNumber": 200,
+        "cardTitle": "Wade Boggs"
+    },
+    {
+        "cardNumber": 201,
+        "cardTitle": "Bobby Valentine Pete O'Brien - Rangers Leaders"
+    },
+    {
+        "cardNumber": 202,
+        "cardTitle": "Glenn Hoffman"
+    },
+    {
+        "cardNumber": 203,
+        "cardTitle": "Freddie Toliver"
+    },
+    {
+        "cardNumber": 204,
+        "cardTitle": "Paul O'Neill"
+    },
+    {
+        "cardNumber": 205,
+        "cardTitle": "Nelson Liriano"
+    },
+    {
+        "cardNumber": 206,
+        "cardTitle": "Domingo Ramos"
+    },
+    {
+        "cardNumber": 207,
+        "cardTitle": "John Mitchell"
+    },
+    {
+        "cardNumber": 208,
+        "cardTitle": "Steve Lake"
+    },
+    {
+        "cardNumber": 209,
+        "cardTitle": "Richard Dotson"
+    },
+    {
+        "cardNumber": 210,
+        "cardTitle": "Willie Randolph"
+    },
+    {
+        "cardNumber": 211,
+        "cardTitle": "Frank DiPino"
+    },
+    {
+        "cardNumber": 212,
+        "cardTitle": "Greg Brock"
+    },
+    {
+        "cardNumber": 213,
+        "cardTitle": "Albert Hall"
+    },
+    {
+        "cardNumber": 214,
+        "cardTitle": "Dave Schmidt"
+    },
+    {
+        "cardNumber": 215,
+        "cardTitle": "Von Hayes"
+    },
+    {
+        "cardNumber": 216,
+        "cardTitle": "Jerry Reuss"
+    },
+    {
+        "cardNumber": 217,
+        "cardTitle": "Harry Spilman"
+    },
+    {
+        "cardNumber": 218,
+        "cardTitle": "Dan Schatzeder"
+    },
+    {
+        "cardNumber": 219,
+        "cardTitle": "Mike Stanley"
+    },
+    {
+        "cardNumber": 220,
+        "cardTitle": "Tom Henke"
+    },
+    {
+        "cardNumber": 221,
+        "cardTitle": "Rafael Belliard"
+    },
+    {
+        "cardNumber": 222,
+        "cardTitle": "Steve Farr"
+    },
+    {
+        "cardNumber": 223,
+        "cardTitle": "Stan Jefferson"
+    },
+    {
+        "cardNumber": 224,
+        "cardTitle": "Tom Trebelhorn - Manager"
+    },
+    {
+        "cardNumber": 225,
+        "cardTitle": "Mike Scioscia"
+    },
+    {
+        "cardNumber": 226,
+        "cardTitle": "Davey Lopes"
+    },
+    {
+        "cardNumber": 227,
+        "cardTitle": "Ed Correa"
+    },
+    {
+        "cardNumber": 228,
+        "cardTitle": "Wallace Johnson"
+    },
+    {
+        "cardNumber": 229,
+        "cardTitle": "Jeff Musselman"
+    },
+    {
+        "cardNumber": 230,
+        "cardTitle": "Pat Tabler"
+    },
+    {
+        "cardNumber": 231,
+        "cardTitle": "Barry Bonds Bobby Bonilla - Pirates Leaders"
+    },
+    {
+        "cardNumber": 232,
+        "cardTitle": "Bob James"
+    },
+    {
+        "cardNumber": 233,
+        "cardTitle": "Rafael Santana"
+    },
+    {
+        "cardNumber": 234,
+        "cardTitle": "Ken Dayley"
+    },
+    {
+        "cardNumber": 235,
+        "cardTitle": "Gary Ward"
+    },
+    {
+        "cardNumber": 236,
+        "cardTitle": "Ted Power"
+    },
+    {
+        "cardNumber": 237,
+        "cardTitle": "Mike Heath"
+    },
+    {
+        "cardNumber": 238,
+        "cardTitle": "Luis Polonia"
+    },
+    {
+        "cardNumber": 239,
+        "cardTitle": "Roy Smalley"
+    },
+    {
+        "cardNumber": 240,
+        "cardTitle": "Lee Smith"
+    },
+    {
+        "cardNumber": 241,
+        "cardTitle": "Damaso Garcia"
+    },
+    {
+        "cardNumber": 242,
+        "cardTitle": "Tom Niedenfuer"
+    },
+    {
+        "cardNumber": 243,
+        "cardTitle": "Mark Ryal"
+    },
+    {
+        "cardNumber": 244,
+        "cardTitle": "Jeff Robinson"
+    },
+    {
+        "cardNumber": 245,
+        "cardTitle": "Rich Gedman"
+    },
+    {
+        "cardNumber": 246,
+        "cardTitle": "Mike Campbell"
+    },
+    {
+        "cardNumber": 247,
+        "cardTitle": "Thad Bosley"
+    },
+    {
+        "cardNumber": 248,
+        "cardTitle": "Storm Davis"
+    },
+    {
+        "cardNumber": 249,
+        "cardTitle": "Mike Marshall"
+    },
+    {
+        "cardNumber": 250,
+        "cardTitle": "Nolan Ryan"
+    },
+    {
+        "cardNumber": 251,
+        "cardTitle": "Tom Foley"
+    },
+    {
+        "cardNumber": 252,
+        "cardTitle": "Bob Brower"
+    },
+    {
+        "cardNumber": 253,
+        "cardTitle": "Checklist 133-264"
+    },
+    {
+        "cardNumber": 254,
+        "cardTitle": "Lee Elia - Manager"
+    },
+    {
+        "cardNumber": 255,
+        "cardTitle": "Mookie Wilson"
+    },
+    {
+        "cardNumber": 256,
+        "cardTitle": "Ken Schrom"
+    },
+    {
+        "cardNumber": 257,
+        "cardTitle": "Jerry Royster"
+    },
+    {
+        "cardNumber": 258,
+        "cardTitle": "Edwin Nunez"
+    },
+    {
+        "cardNumber": 259,
+        "cardTitle": "Ron Kittle"
+    },
+    {
+        "cardNumber": 260,
+        "cardTitle": "Vince Coleman"
+    },
+    {
+        "cardNumber": 261,
+        "cardTitle": "Will Clark Candy Maldonado - Giants Leaders"
+    },
+    {
+        "cardNumber": 262,
+        "cardTitle": "Drew Hall"
+    },
+    {
+        "cardNumber": 263,
+        "cardTitle": "Glenn Braggs"
+    },
+    {
+        "cardNumber": 264,
+        "cardTitle": "Les Straker"
+    },
+    {
+        "cardNumber": 264,
+        "cardTitle": "Les Straker"
+    },
+    {
+        "cardNumber": 265,
+        "cardTitle": "Bo Diaz"
+    },
+    {
+        "cardNumber": 266,
+        "cardTitle": "Paul Assenmacher"
+    },
+    {
+        "cardNumber": 267,
+        "cardTitle": "Bill Bean"
+    },
+    {
+        "cardNumber": 268,
+        "cardTitle": "Bruce Ruffin"
+    },
+    {
+        "cardNumber": 269,
+        "cardTitle": "Ellis Burks"
+    },
+    {
+        "cardNumber": 270,
+        "cardTitle": "Mike Witt"
+    },
+    {
+        "cardNumber": 271,
+        "cardTitle": "Ken Gerhart"
+    },
+    {
+        "cardNumber": 272,
+        "cardTitle": "Steve Ontiveros"
+    },
+    {
+        "cardNumber": 273,
+        "cardTitle": "Garth Iorg"
+    },
+    {
+        "cardNumber": 274,
+        "cardTitle": "Junior Ortiz"
+    },
+    {
+        "cardNumber": 275,
+        "cardTitle": "Kevin Seitzer"
+    },
+    {
+        "cardNumber": 276,
+        "cardTitle": "Luis Salazar"
+    },
+    {
+        "cardNumber": 277,
+        "cardTitle": "Alejandro Pena"
+    },
+    {
+        "cardNumber": 278,
+        "cardTitle": "Jose Cruz"
+    },
+    {
+        "cardNumber": 279,
+        "cardTitle": "Randy St. Claire"
+    },
+    {
+        "cardNumber": 280,
+        "cardTitle": "Pete Incaviglia"
+    },
+    {
+        "cardNumber": 281,
+        "cardTitle": "Jerry Hairston"
+    },
+    {
+        "cardNumber": 282,
+        "cardTitle": "Pat Perry"
+    },
+    {
+        "cardNumber": 283,
+        "cardTitle": "Phil Lombardi"
+    },
+    {
+        "cardNumber": 284,
+        "cardTitle": "Larry Bowa - Manager"
+    },
+    {
+        "cardNumber": 285,
+        "cardTitle": "Jim Presley"
+    },
+    {
+        "cardNumber": 286,
+        "cardTitle": "Chuck Crim"
+    },
+    {
+        "cardNumber": 287,
+        "cardTitle": "Manny Trillo"
+    },
+    {
+        "cardNumber": 288,
+        "cardTitle": "Pat Pacillo"
+    },
+    {
+        "cardNumber": 289,
+        "cardTitle": "Dave Bergman"
+    },
+    {
+        "cardNumber": 290,
+        "cardTitle": "Tony Fernandez"
+    },
+    {
+        "cardNumber": 291,
+        "cardTitle": "Billy Hatcher Kevin Bass - Astros Leaders"
+    },
+    {
+        "cardNumber": 292,
+        "cardTitle": "Carney Lansford"
+    },
+    {
+        "cardNumber": 293,
+        "cardTitle": "Doug Jones"
+    },
+    {
+        "cardNumber": 294,
+        "cardTitle": "Al Pedrique"
+    },
+    {
+        "cardNumber": 295,
+        "cardTitle": "Bert Blyleven"
+    },
+    {
+        "cardNumber": 296,
+        "cardTitle": "Floyd Rayford"
+    },
+    {
+        "cardNumber": 297,
+        "cardTitle": "Zane Smith"
+    },
+    {
+        "cardNumber": 298,
+        "cardTitle": "Milt Thompson"
+    },
+    {
+        "cardNumber": 299,
+        "cardTitle": "Steve Crawford"
+    },
+    {
+        "cardNumber": 300,
+        "cardTitle": "Don Mattingly"
+    },
+    {
+        "cardNumber": 301,
+        "cardTitle": "Bud Black"
+    },
+    {
+        "cardNumber": 302,
+        "cardTitle": "Jose Uribe"
+    },
+    {
+        "cardNumber": 303,
+        "cardTitle": "Eric Show"
+    },
+    {
+        "cardNumber": 304,
+        "cardTitle": "George Hendrick"
+    },
+    {
+        "cardNumber": 305,
+        "cardTitle": "Steve Sax"
+    },
+    {
+        "cardNumber": 306,
+        "cardTitle": "Billy Hatcher"
+    },
+    {
+        "cardNumber": 307,
+        "cardTitle": "Mike Trujillo"
+    },
+    {
+        "cardNumber": 308,
+        "cardTitle": "Lee Mazzilli"
+    },
+    {
+        "cardNumber": 309,
+        "cardTitle": "Bill Long"
+    },
+    {
+        "cardNumber": 310,
+        "cardTitle": "Tom Herr"
+    },
+    {
+        "cardNumber": 311,
+        "cardTitle": "Scott Sanderson"
+    },
+    {
+        "cardNumber": 312,
+        "cardTitle": "Joey Meyer"
+    },
+    {
+        "cardNumber": 313,
+        "cardTitle": "Bob McClure"
+    },
+    {
+        "cardNumber": 314,
+        "cardTitle": "Jimy Williams - Manager"
+    },
+    {
+        "cardNumber": 315,
+        "cardTitle": "Dave Parker"
+    },
+    {
+        "cardNumber": 316,
+        "cardTitle": "Jose Rijo"
+    },
+    {
+        "cardNumber": 317,
+        "cardTitle": "Tom Nieto"
+    },
+    {
+        "cardNumber": 318,
+        "cardTitle": "Mel Hall"
+    },
+    {
+        "cardNumber": 319,
+        "cardTitle": "Mike Loynd"
+    },
+    {
+        "cardNumber": 320,
+        "cardTitle": "Alan Trammell"
+    },
+    {
+        "cardNumber": 321,
+        "cardTitle": "Harold Baines/Carlton Fisk - White Sox Leaders"
+    },
+    {
+        "cardNumber": 322,
+        "cardTitle": "Vicente Palacios"
+    },
+    {
+        "cardNumber": 323,
+        "cardTitle": "Rick Leach"
+    },
+    {
+        "cardNumber": 324,
+        "cardTitle": "Danny Jackson"
+    },
+    {
+        "cardNumber": 325,
+        "cardTitle": "Glenn Hubbard"
+    },
+    {
+        "cardNumber": 326,
+        "cardTitle": "Al Nipper"
+    },
+    {
+        "cardNumber": 327,
+        "cardTitle": "Larry Sheets"
+    },
+    {
+        "cardNumber": 328,
+        "cardTitle": "Greg Cadaret"
+    },
+    {
+        "cardNumber": 329,
+        "cardTitle": "Chris Speier"
+    },
+    {
+        "cardNumber": 330,
+        "cardTitle": "Ed Whitson"
+    },
+    {
+        "cardNumber": 331,
+        "cardTitle": "Brian Downing"
+    },
+    {
+        "cardNumber": 332,
+        "cardTitle": "Jerry Reed"
+    },
+    {
+        "cardNumber": 333,
+        "cardTitle": "Wally Backman"
+    },
+    {
+        "cardNumber": 334,
+        "cardTitle": "Dave LaPoint"
+    },
+    {
+        "cardNumber": 335,
+        "cardTitle": "Claudell Washington"
+    },
+    {
+        "cardNumber": 336,
+        "cardTitle": "Ed Lynch"
+    },
+    {
+        "cardNumber": 337,
+        "cardTitle": "Jim Gantner"
+    },
+    {
+        "cardNumber": 338,
+        "cardTitle": "Brian Holton"
+    },
+    {
+        "cardNumber": 339,
+        "cardTitle": "Kurt Stillwell"
+    },
+    {
+        "cardNumber": 340,
+        "cardTitle": "Jack Morris"
+    },
+    {
+        "cardNumber": 341,
+        "cardTitle": "Carmen Castillo"
+    },
+    {
+        "cardNumber": 342,
+        "cardTitle": "Larry Andersen"
+    },
+    {
+        "cardNumber": 343,
+        "cardTitle": "Greg Gagne"
+    },
+    {
+        "cardNumber": 344,
+        "cardTitle": "Tony La Russa"
+    },
+    {
+        "cardNumber": 345,
+        "cardTitle": "Scott Fletcher"
+    },
+    {
+        "cardNumber": 346,
+        "cardTitle": "Vance Law"
+    },
+    {
+        "cardNumber": 347,
+        "cardTitle": "Joe Johnson"
+    },
+    {
+        "cardNumber": 348,
+        "cardTitle": "Jim Eisenreich"
+    },
+    {
+        "cardNumber": 349,
+        "cardTitle": "Bob Walk"
+    },
+    {
+        "cardNumber": 350,
+        "cardTitle": "Will Clark"
+    },
+    {
+        "cardNumber": 351,
+        "cardTitle": "Red Schoendienst/Tony Pena - Cardinals Leaders"
+    },
+    {
+        "cardNumber": 352,
+        "cardTitle": "Billy Ripken"
+    },
+    {
+        "cardNumber": 353,
+        "cardTitle": "Ed Olwine"
+    },
+    {
+        "cardNumber": 354,
+        "cardTitle": "Marty Sullivan"
+    },
+    {
+        "cardNumber": 355,
+        "cardTitle": "Roger McDowell"
+    },
+    {
+        "cardNumber": 356,
+        "cardTitle": "Luis Aguayo"
+    },
+    {
+        "cardNumber": 357,
+        "cardTitle": "Floyd Bannister"
+    },
+    {
+        "cardNumber": 358,
+        "cardTitle": "Rey Quinones"
+    },
+    {
+        "cardNumber": 359,
+        "cardTitle": "Tim Stoddard"
+    },
+    {
+        "cardNumber": 360,
+        "cardTitle": "Tony Gwynn"
+    },
+    {
+        "cardNumber": 361,
+        "cardTitle": "Greg Maddux"
+    },
+    {
+        "cardNumber": 362,
+        "cardTitle": "Juan Castillo"
+    },
+    {
+        "cardNumber": 363,
+        "cardTitle": "Willie Fraser"
+    },
+    {
+        "cardNumber": 364,
+        "cardTitle": "Nick Esasky"
+    },
+    {
+        "cardNumber": 365,
+        "cardTitle": "Floyd Youmans"
+    },
+    {
+        "cardNumber": 366,
+        "cardTitle": "Chet Lemon"
+    },
+    {
+        "cardNumber": 367,
+        "cardTitle": "Tim Leary"
+    },
+    {
+        "cardNumber": 368,
+        "cardTitle": "Gerald Young"
+    },
+    {
+        "cardNumber": 369,
+        "cardTitle": "Greg Harris"
+    },
+    {
+        "cardNumber": 370,
+        "cardTitle": "Jose Canseco"
+    },
+    {
+        "cardNumber": 371,
+        "cardTitle": "Joe Hesketh"
+    },
+    {
+        "cardNumber": 372,
+        "cardTitle": "Matt Williams"
+    },
+    {
+        "cardNumber": 373,
+        "cardTitle": "Checklist 265-396"
+    },
+    {
+        "cardNumber": 374,
+        "cardTitle": "Doc Edwards - Manager"
+    },
+    {
+        "cardNumber": 375,
+        "cardTitle": "Tom Brunansky"
+    },
+    {
+        "cardNumber": 376,
+        "cardTitle": "Bill Wilkinson"
+    },
+    {
+        "cardNumber": 377,
+        "cardTitle": "Sam Horn"
+    },
+    {
+        "cardNumber": 378,
+        "cardTitle": "Todd Frohwirth"
+    },
+    {
+        "cardNumber": 379,
+        "cardTitle": "Rafael Ramirez"
+    },
+    {
+        "cardNumber": 380,
+        "cardTitle": "Joe Magrane"
+    },
+    {
+        "cardNumber": 381,
+        "cardTitle": "Wally Joyner/Jack Howell - Angels Leaders"
+    },
+    {
+        "cardNumber": 382,
+        "cardTitle": "Keith Miller"
+    },
+    {
+        "cardNumber": 383,
+        "cardTitle": "Eric Bell"
+    },
+    {
+        "cardNumber": 384,
+        "cardTitle": "Neil Allen"
+    },
+    {
+        "cardNumber": 385,
+        "cardTitle": "Carlton Fisk"
+    },
+    {
+        "cardNumber": 386,
+        "cardTitle": "Don Mattingly - A.L. All-Star"
+    },
+    {
+        "cardNumber": 387,
+        "cardTitle": "Willie Randolph - A.L. All-Star"
+    },
+    {
+        "cardNumber": 388,
+        "cardTitle": "Wade Boggs - A.L. All-Star"
+    },
+    {
+        "cardNumber": 389,
+        "cardTitle": "Alan Trammell - A.L. All-Star"
+    },
+    {
+        "cardNumber": 390,
+        "cardTitle": "George Bell - A.L. All-Star"
+    },
+    {
+        "cardNumber": 391,
+        "cardTitle": "Kirby Puckett - A.L. All-Star"
+    },
+    {
+        "cardNumber": 392,
+        "cardTitle": "Dave Winfield - A.L. All-Star"
+    },
+    {
+        "cardNumber": 393,
+        "cardTitle": "Matt Nokes - A.L. All-Star"
+    },
+    {
+        "cardNumber": 394,
+        "cardTitle": "Roger Clemens - A.L. All-Star"
+    },
+    {
+        "cardNumber": 395,
+        "cardTitle": "Jimmy Key - A.L. All-Star"
+    },
+    {
+        "cardNumber": 396,
+        "cardTitle": "Tom Henke - A.L. All-Star"
+    },
+    {
+        "cardNumber": 397,
+        "cardTitle": "Jack Clark - N.L. All-Star"
+    },
+    {
+        "cardNumber": 398,
+        "cardTitle": "Juan Samuel - N.L. All-Star"
+    },
+    {
+        "cardNumber": 399,
+        "cardTitle": "Tim Wallach - N.L. All-Star"
+    },
+    {
+        "cardNumber": 400,
+        "cardTitle": "Ozzie Smith - N.L. All-Star"
+    },
+    {
+        "cardNumber": 401,
+        "cardTitle": "Andre Dawson - N.L. All-Star"
+    },
+    {
+        "cardNumber": 402,
+        "cardTitle": "Tony Gwynn - N.L. All-Star"
+    },
+    {
+        "cardNumber": 403,
+        "cardTitle": "Tim Raines - N.L. All-Star"
+    },
+    {
+        "cardNumber": 404,
+        "cardTitle": "Benito Santiago - N.L. All-Star"
+    },
+    {
+        "cardNumber": 405,
+        "cardTitle": "Dwight Gooden - N.L. All-Star"
+    },
+    {
+        "cardNumber": 406,
+        "cardTitle": "Shane Rawley - N.L. All-Star"
+    },
+    {
+        "cardNumber": 407,
+        "cardTitle": "Steve Bedrosian - N.L. All-Star"
+    },
+    {
+        "cardNumber": 408,
+        "cardTitle": "Dion James"
+    },
+    {
+        "cardNumber": 409,
+        "cardTitle": "Joel McKeon - Manager"
+    },
+    {
+        "cardNumber": 410,
+        "cardTitle": "Roberto Pena"
+    },
+    {
+        "cardNumber": 411,
+        "cardTitle": "Wayne Tolleson"
+    },
+    {
+        "cardNumber": 412,
+        "cardTitle": "Randy Myers"
+    },
+    {
+        "cardNumber": 413,
+        "cardTitle": "John Christensen"
+    },
+    {
+        "cardNumber": 414,
+        "cardTitle": "John McNamara - Manager"
+    },
+    {
+        "cardNumber": 415,
+        "cardTitle": "Don Carman"
+    },
+    {
+        "cardNumber": 416,
+        "cardTitle": "Keith Moreland"
+    },
+    {
+        "cardNumber": 417,
+        "cardTitle": "Mark Ciardi"
+    },
+    {
+        "cardNumber": 418,
+        "cardTitle": "Joel Youngblood"
+    },
+    {
+        "cardNumber": 419,
+        "cardTitle": "Scott McGregor"
+    },
+    {
+        "cardNumber": 420,
+        "cardTitle": "Wally Joyner"
+    },
+    {
+        "cardNumber": 421,
+        "cardTitle": "Ed Vande Berg"
+    },
+    {
+        "cardNumber": 422,
+        "cardTitle": "Dave Concepcion"
+    },
+    {
+        "cardNumber": 423,
+        "cardTitle": "John Smiley"
+    },
+    {
+        "cardNumber": 424,
+        "cardTitle": "Dwayne Murphy"
+    },
+    {
+        "cardNumber": 425,
+        "cardTitle": "Jeff Reardon"
+    },
+    {
+        "cardNumber": 426,
+        "cardTitle": "Randy Ready"
+    },
+    {
+        "cardNumber": 427,
+        "cardTitle": "Paul Kilgus"
+    },
+    {
+        "cardNumber": 428,
+        "cardTitle": "John Shelby"
+    },
+    {
+        "cardNumber": 429,
+        "cardTitle": "Alan Trammell/Kirk Gibson - Tigers Leaders"
+    },
+    {
+        "cardNumber": 430,
+        "cardTitle": "Glenn Davis"
+    },
+    {
+        "cardNumber": 431,
+        "cardTitle": "Casey Candaele"
+    },
+    {
+        "cardNumber": 432,
+        "cardTitle": "Mike Moore"
+    },
+    {
+        "cardNumber": 433,
+        "cardTitle": "Bill Pecota"
+    },
+    {
+        "cardNumber": 434,
+        "cardTitle": "Rick Aguilera"
+    },
+    {
+        "cardNumber": 435,
+        "cardTitle": "Mike Pagliarulo"
+    },
+    {
+        "cardNumber": 436,
+        "cardTitle": "Mike Bielecki"
+    },
+    {
+        "cardNumber": 437,
+        "cardTitle": "Fred Manrique"
+    },
+    {
+        "cardNumber": 438,
+        "cardTitle": "Rob Ducey"
+    },
+    {
+        "cardNumber": 439,
+        "cardTitle": "Dave Martinez"
+    },
+    {
+        "cardNumber": 440,
+        "cardTitle": "Steve Bedrosian"
+    },
+    {
+        "cardNumber": 441,
+        "cardTitle": "Rick Manning"
+    },
+    {
+        "cardNumber": 442,
+        "cardTitle": "Tom Bolton"
+    },
+    {
+        "cardNumber": 443,
+        "cardTitle": "Ken Griffey"
+    },
+    {
+        "cardNumber": 444,
+        "cardTitle": "Cal Ripken, Sr. - Manager"
+    },
+    {
+        "cardNumber": 445,
+        "cardTitle": "Mike Krukow"
+    },
+    {
+        "cardNumber": 446,
+        "cardTitle": "Doug DeCinces"
+    },
+    {
+        "cardNumber": 447,
+        "cardTitle": "Jeff Montgomery"
+    },
+    {
+        "cardNumber": 448,
+        "cardTitle": "Mike Davison"
+    },
+    {
+        "cardNumber": 449,
+        "cardTitle": "Jeff Robinson"
+    },
+    {
+        "cardNumber": 450,
+        "cardTitle": "Barry Bonds"
+    },
+    {
+        "cardNumber": 451,
+        "cardTitle": "Keith Atherton"
+    },
+    {
+        "cardNumber": 452,
+        "cardTitle": "Willie Wilson"
+    },
+    {
+        "cardNumber": 453,
+        "cardTitle": "Dennis Powell"
+    },
+    {
+        "cardNumber": 454,
+        "cardTitle": "Marvell Wynne"
+    },
+    {
+        "cardNumber": 455,
+        "cardTitle": "Shawn Hillegas"
+    },
+    {
+        "cardNumber": 456,
+        "cardTitle": "Dave Anderson"
+    },
+    {
+        "cardNumber": 457,
+        "cardTitle": "Terry Leach"
+    },
+    {
+        "cardNumber": 458,
+        "cardTitle": "Ron Hassey"
+    },
+    {
+        "cardNumber": 459,
+        "cardTitle": "Dave Winfield/Willie Randolph - Yankees Leaders"
+    },
+    {
+        "cardNumber": 460,
+        "cardTitle": "Ozzie Smith"
+    },
+    {
+        "cardNumber": 461,
+        "cardTitle": "Danny Darwin"
+    },
+    {
+        "cardNumber": 462,
+        "cardTitle": "Don Slaught"
+    },
+    {
+        "cardNumber": 463,
+        "cardTitle": "Fred McGriff"
+    },
+    {
+        "cardNumber": 464,
+        "cardTitle": "Jay Tibbs"
+    },
+    {
+        "cardNumber": 465,
+        "cardTitle": "Paul Molitor"
+    },
+    {
+        "cardNumber": 466,
+        "cardTitle": "Jerry Mumphrey"
+    },
+    {
+        "cardNumber": 467,
+        "cardTitle": "Don Aase"
+    },
+    {
+        "cardNumber": 468,
+        "cardTitle": "Darren Daulton"
+    },
+    {
+        "cardNumber": 469,
+        "cardTitle": "Jeff Dedmon"
+    },
+    {
+        "cardNumber": 470,
+        "cardTitle": "Dwight Evans"
+    },
+    {
+        "cardNumber": 471,
+        "cardTitle": "Donnie Moore"
+    },
+    {
+        "cardNumber": 472,
+        "cardTitle": "Robby Thompson"
+    },
+    {
+        "cardNumber": 473,
+        "cardTitle": "Joe Niekro"
+    },
+    {
+        "cardNumber": 474,
+        "cardTitle": "Tom Brookens"
+    },
+    {
+        "cardNumber": 475,
+        "cardTitle": "Pete Rose - Manager"
+    },
+    {
+        "cardNumber": 476,
+        "cardTitle": "Dave Stewart"
+    },
+    {
+        "cardNumber": 477,
+        "cardTitle": "Jamie Quirk"
+    },
+    {
+        "cardNumber": 478,
+        "cardTitle": "Sid Bream"
+    },
+    {
+        "cardNumber": 479,
+        "cardTitle": "Brett Butler"
+    },
+    {
+        "cardNumber": 480,
+        "cardTitle": "Dwight Gooden"
+    },
+    {
+        "cardNumber": 481,
+        "cardTitle": "Mariano Duncan"
+    },
+    {
+        "cardNumber": 482,
+        "cardTitle": "Mark Davis"
+    },
+    {
+        "cardNumber": 483,
+        "cardTitle": "Rod Booker"
+    },
+    {
+        "cardNumber": 484,
+        "cardTitle": "Pat Clements"
+    },
+    {
+        "cardNumber": 485,
+        "cardTitle": "Harold Reynolds"
+    },
+    {
+        "cardNumber": 486,
+        "cardTitle": "Pat Keedy"
+    },
+    {
+        "cardNumber": 487,
+        "cardTitle": "Jim Pankovits"
+    },
+    {
+        "cardNumber": 488,
+        "cardTitle": "Andy McGaffigan"
+    },
+    {
+        "cardNumber": 489,
+        "cardTitle": "Pedro Guerrero/Fernando Valenzuela - Dodgers Leaders"
+    },
+    {
+        "cardNumber": 490,
+        "cardTitle": "Larry Parrish"
+    },
+    {
+        "cardNumber": 491,
+        "cardTitle": "B.J. Surhoff"
+    },
+    {
+        "cardNumber": 492,
+        "cardTitle": "Doyle Alexander"
+    },
+    {
+        "cardNumber": 493,
+        "cardTitle": "Mike Greenwell"
+    },
+    {
+        "cardNumber": 494,
+        "cardTitle": "Wally Ritchie"
+    },
+    {
+        "cardNumber": 495,
+        "cardTitle": "Eddie Murray"
+    },
+    {
+        "cardNumber": 496,
+        "cardTitle": "Guy Hoffman"
+    },
+    {
+        "cardNumber": 497,
+        "cardTitle": "Kevin Mitchell"
+    },
+    {
+        "cardNumber": 498,
+        "cardTitle": "Bob Boone"
+    },
+    {
+        "cardNumber": 499,
+        "cardTitle": "Eric King"
+    },
+    {
+        "cardNumber": 500,
+        "cardTitle": "Andre Dawson"
+    },
+    {
+        "cardNumber": 501,
+        "cardTitle": "Tim Birtsas"
+    },
+    {
+        "cardNumber": 502,
+        "cardTitle": "Dan Gladden"
+    },
+    {
+        "cardNumber": 503,
+        "cardTitle": "Junior Noboa"
+    },
+    {
+        "cardNumber": 504,
+        "cardTitle": "Bob Rodgers - Manager"
+    },
+    {
+        "cardNumber": 505,
+        "cardTitle": "Willie Upshaw"
+    },
+    {
+        "cardNumber": 506,
+        "cardTitle": "John Cangelosi"
+    },
+    {
+        "cardNumber": 507,
+        "cardTitle": "Mark Gubicza"
+    },
+    {
+        "cardNumber": 508,
+        "cardTitle": "Tim Teufel"
+    },
+    {
+        "cardNumber": 509,
+        "cardTitle": "Bill Dawley"
+    },
+    {
+        "cardNumber": 510,
+        "cardTitle": "Dave Winfield"
+    },
+    {
+        "cardNumber": 511,
+        "cardTitle": "Joel Davis"
+    },
+    {
+        "cardNumber": 512,
+        "cardTitle": "Alex Trevino"
+    },
+    {
+        "cardNumber": 513,
+        "cardTitle": "Tim Flannery"
+    },
+    {
+        "cardNumber": 514,
+        "cardTitle": "Pat Sheridan"
+    },
+    {
+        "cardNumber": 515,
+        "cardTitle": "Juan Nieves"
+    },
+    {
+        "cardNumber": 516,
+        "cardTitle": "Jim Sundberg"
+    },
+    {
+        "cardNumber": 517,
+        "cardTitle": "Ron Robinson"
+    },
+    {
+        "cardNumber": 518,
+        "cardTitle": "Greg Gross"
+    },
+    {
+        "cardNumber": 519,
+        "cardTitle": "Harold Reynolds - Phil Bradley - Mariners Leaders"
+    },
+    {
+        "cardNumber": 520,
+        "cardTitle": "Dave Smith"
+    },
+    {
+        "cardNumber": 521,
+        "cardTitle": "Jim Dwyer"
+    },
+    {
+        "cardNumber": 522,
+        "cardTitle": "Bob Patterson"
+    },
+    {
+        "cardNumber": 523,
+        "cardTitle": "Gary Roenicke"
+    },
+    {
+        "cardNumber": 524,
+        "cardTitle": "Gary Lucas"
+    },
+    {
+        "cardNumber": 525,
+        "cardTitle": "Marty Barrett"
+    },
+    {
+        "cardNumber": 526,
+        "cardTitle": "Juan Berenguer"
+    },
+    {
+        "cardNumber": 527,
+        "cardTitle": "Steve Henderson"
+    },
+    {
+        "cardNumber": 528,
+        "cardTitle": "Checklist 397-528"
+    },
+    {
+        "cardNumber": 529,
+        "cardTitle": "Tim Burke"
+    },
+    {
+        "cardNumber": 530,
+        "cardTitle": "Gary Carter"
+    },
+    {
+        "cardNumber": 531,
+        "cardTitle": "Rich Yett"
+    },
+    {
+        "cardNumber": 532,
+        "cardTitle": "Mike Kingery"
+    },
+    {
+        "cardNumber": 533,
+        "cardTitle": "John Farrell"
+    },
+    {
+        "cardNumber": 534,
+        "cardTitle": "John Wathan - Manager"
+    },
+    {
+        "cardNumber": 535,
+        "cardTitle": "Ron Guidry"
+    },
+    {
+        "cardNumber": 536,
+        "cardTitle": "John Morris"
+    },
+    {
+        "cardNumber": 537,
+        "cardTitle": "Steve Buechele"
+    },
+    {
+        "cardNumber": 538,
+        "cardTitle": "Bill Wegman"
+    },
+    {
+        "cardNumber": 539,
+        "cardTitle": "Mike LaValliere"
+    },
+    {
+        "cardNumber": 540,
+        "cardTitle": "Bret Saberhagen"
+    },
+    {
+        "cardNumber": 541,
+        "cardTitle": "Juan Beniquez"
+    },
+    {
+        "cardNumber": 542,
+        "cardTitle": "Paul Noce"
+    },
+    {
+        "cardNumber": 543,
+        "cardTitle": "Kent Tekulve"
+    },
+    {
+        "cardNumber": 544,
+        "cardTitle": "Jim Traber"
+    },
+    {
+        "cardNumber": 545,
+        "cardTitle": "Don Baylor"
+    },
+    {
+        "cardNumber": 546,
+        "cardTitle": "John Candelaria"
+    },
+    {
+        "cardNumber": 547,
+        "cardTitle": "Felix Fermin"
+    },
+    {
+        "cardNumber": 548,
+        "cardTitle": "Shane Mack"
+    },
+    {
+        "cardNumber": 549,
+        "cardTitle": "Albert Hall/Dale Murphy/Ken Griffey - Braves Leaders"
+    },
+    {
+        "cardNumber": 550,
+        "cardTitle": "Pedro Guerrero"
+    },
+    {
+        "cardNumber": 551,
+        "cardTitle": "Terry Steinbach"
+    },
+    {
+        "cardNumber": 552,
+        "cardTitle": "Mark Thurmond"
+    },
+    {
+        "cardNumber": 553,
+        "cardTitle": "Tracy Jones"
+    },
+    {
+        "cardNumber": 554,
+        "cardTitle": "Mike Smithson"
+    },
+    {
+        "cardNumber": 555,
+        "cardTitle": "Brook Jacoby"
+    },
+    {
+        "cardNumber": 556,
+        "cardTitle": "Stan Clarke"
+    },
+    {
+        "cardNumber": 557,
+        "cardTitle": "Craig Reynolds"
+    },
+    {
+        "cardNumber": 558,
+        "cardTitle": "Bob Ojeda"
+    },
+    {
+        "cardNumber": 559,
+        "cardTitle": "Ken Williams"
+    },
+    {
+        "cardNumber": 560,
+        "cardTitle": "Tim Wallach"
+    },
+    {
+        "cardNumber": 561,
+        "cardTitle": "Rick Cerone"
+    },
+    {
+        "cardNumber": 562,
+        "cardTitle": "Jim Lindeman"
+    },
+    {
+        "cardNumber": 563,
+        "cardTitle": "Jose Guzman"
+    },
+    {
+        "cardNumber": 564,
+        "cardTitle": "Frank Lucchesi"
+    },
+    {
+        "cardNumber": 565,
+        "cardTitle": "Lloyd Moseby"
+    },
+    {
+        "cardNumber": 566,
+        "cardTitle": "Charlie O'Brien"
+    },
+    {
+        "cardNumber": 567,
+        "cardTitle": "Mike Diaz"
+    },
+    {
+        "cardNumber": 568,
+        "cardTitle": "Chris Brown"
+    },
+    {
+        "cardNumber": 569,
+        "cardTitle": "Charlie Leibrandt"
+    },
+    {
+        "cardNumber": 570,
+        "cardTitle": "Jeffrey Leonard"
+    },
+    {
+        "cardNumber": 571,
+        "cardTitle": "Mark Williamson"
+    },
+    {
+        "cardNumber": 572,
+        "cardTitle": "Charlie James"
+    },
+    {
+        "cardNumber": 573,
+        "cardTitle": "Bob Stanley"
+    },
+    {
+        "cardNumber": 574,
+        "cardTitle": "Graig Nettles"
+    },
+    {
+        "cardNumber": 575,
+        "cardTitle": "Don Sutton"
+    },
+    {
+        "cardNumber": 576,
+        "cardTitle": "Tommy Hinzo"
+    },
+    {
+        "cardNumber": 577,
+        "cardTitle": "Tom Browning"
+    },
+    {
+        "cardNumber": 578,
+        "cardTitle": "Gary Gaetti"
+    },
+    {
+        "cardNumber": 579,
+        "cardTitle": "Gary Carter/Kevin McReynolds - Mets Leaders"
+    },
+    {
+        "cardNumber": 580,
+        "cardTitle": "Mark McGwire"
+    },
+    {
+        "cardNumber": 581,
+        "cardTitle": "Tito Landrum"
+    },
+    {
+        "cardNumber": 582,
+        "cardTitle": "Mike Henneman"
+    },
+    {
+        "cardNumber": 583,
+        "cardTitle": "Dave Valle"
+    },
+    {
+        "cardNumber": 584,
+        "cardTitle": "Steve Trout"
+    },
+    {
+        "cardNumber": 585,
+        "cardTitle": "Ozzie Guillen"
+    },
+    {
+        "cardNumber": 586,
+        "cardTitle": "Bob Forsch"
+    },
+    {
+        "cardNumber": 587,
+        "cardTitle": "Terry Puhl"
+    },
+    {
+        "cardNumber": 588,
+        "cardTitle": "Jeff Parrett"
+    },
+    {
+        "cardNumber": 589,
+        "cardTitle": "Geno Petralli"
+    },
+    {
+        "cardNumber": 590,
+        "cardTitle": "George Bell"
+    },
+    {
+        "cardNumber": 591,
+        "cardTitle": "Doug Drabek"
+    },
+    {
+        "cardNumber": 592,
+        "cardTitle": "Dale Sveum"
+    },
+    {
+        "cardNumber": 593,
+        "cardTitle": "Bob Tewksbury"
+    },
+    {
+        "cardNumber": 594,
+        "cardTitle": "Bobby Valentine - Manager"
+    },
+    {
+        "cardNumber": 595,
+        "cardTitle": "Frank White"
+    },
+    {
+        "cardNumber": 596,
+        "cardTitle": "John Kruk"
+    },
+    {
+        "cardNumber": 597,
+        "cardTitle": "Gene Garber"
+    },
+    {
+        "cardNumber": 598,
+        "cardTitle": "Lee Lacy"
+    },
+    {
+        "cardNumber": 599,
+        "cardTitle": "Calvin Schiraldi"
+    },
+    {
+        "cardNumber": 600,
+        "cardTitle": "Mike Schmidt"
+    },
+    {
+        "cardNumber": 601,
+        "cardTitle": "Jack Lazorko"
+    },
+    {
+        "cardNumber": 602,
+        "cardTitle": "Mike Aldrete"
+    },
+    {
+        "cardNumber": 603,
+        "cardTitle": "Rob Murphy"
+    },
+    {
+        "cardNumber": 604,
+        "cardTitle": "Chris Bando"
+    },
+    {
+        "cardNumber": 605,
+        "cardTitle": "Kirk Gibson"
+    },
+    {
+        "cardNumber": 606,
+        "cardTitle": "Moose Haas"
+    },
+    {
+        "cardNumber": 607,
+        "cardTitle": "Mickey Hatcher"
+    },
+    {
+        "cardNumber": 608,
+        "cardTitle": "Charlie Kerfeld"
+    },
+    {
+        "cardNumber": 609,
+        "cardTitle": "Gary Gaetti/Kent Hrbek - Twins Leaders"
+    },
+    {
+        "cardNumber": 610,
+        "cardTitle": "Keith Hernandez"
+    },
+    {
+        "cardNumber": 611,
+        "cardTitle": "Tommy John"
+    },
+    {
+        "cardNumber": 612,
+        "cardTitle": "Curt Ford"
+    },
+    {
+        "cardNumber": 613,
+        "cardTitle": "Bobby Thigpen"
+    },
+    {
+        "cardNumber": 614,
+        "cardTitle": "Herm Winningham"
+    },
+    {
+        "cardNumber": 615,
+        "cardTitle": "John Davis"
+    },
+    {
+        "cardNumber": 616,
+        "cardTitle": "Jay Aldrich"
+    },
+    {
+        "cardNumber": 617,
+        "cardTitle": "Oddibe McDowell"
+    },
+    {
+        "cardNumber": 618,
+        "cardTitle": "Cecil Fielder"
+    },
+    {
+        "cardNumber": 619,
+        "cardTitle": "Mike Dunne"
+    },
+    {
+        "cardNumber": 620,
+        "cardTitle": "Cory Snyder"
+    },
+    {
+        "cardNumber": 621,
+        "cardTitle": "Gene Nelson"
+    },
+    {
+        "cardNumber": 622,
+        "cardTitle": "Kal Daniels"
+    },
+    {
+        "cardNumber": 623,
+        "cardTitle": "Mike Flanagan"
+    },
+    {
+        "cardNumber": 624,
+        "cardTitle": "Jim Leyland - Manager"
+    },
+    {
+        "cardNumber": 625,
+        "cardTitle": "Frank Viola"
+    },
+    {
+        "cardNumber": 626,
+        "cardTitle": "Glenn Wilson"
+    },
+    {
+        "cardNumber": 627,
+        "cardTitle": "Joe Boever"
+    },
+    {
+        "cardNumber": 628,
+        "cardTitle": "Dave Henderson"
+    },
+    {
+        "cardNumber": 629,
+        "cardTitle": "Kelly Downs"
+    },
+    {
+        "cardNumber": 630,
+        "cardTitle": "Darrell Evans"
+    },
+    {
+        "cardNumber": 631,
+        "cardTitle": "Jack Howell"
+    },
+    {
+        "cardNumber": 632,
+        "cardTitle": "Steve Shields"
+    },
+    {
+        "cardNumber": 633,
+        "cardTitle": "Barry Lyons"
+    },
+    {
+        "cardNumber": 634,
+        "cardTitle": "Jose DeLeon"
+    },
+    {
+        "cardNumber": 635,
+        "cardTitle": "Terry Pendleton"
+    },
+    {
+        "cardNumber": 636,
+        "cardTitle": "Charlie Hudson"
+    },
+    {
+        "cardNumber": 637,
+        "cardTitle": "Jay Bell"
+    },
+    {
+        "cardNumber": 638,
+        "cardTitle": "Steve Balboni"
+    },
+    {
+        "cardNumber": 639,
+        "cardTitle": "Tony Muser/Glenn Braggs - Brewers Leaders"
+    },
+    {
+        "cardNumber": 640,
+        "cardTitle": "Garry Templeton"
+    },
+    {
+        "cardNumber": 641,
+        "cardTitle": "Rick Honeycutt"
+    },
+    {
+        "cardNumber": 642,
+        "cardTitle": "Bob Dernier"
+    },
+    {
+        "cardNumber": 643,
+        "cardTitle": "Rocky Childress"
+    },
+    {
+        "cardNumber": 644,
+        "cardTitle": "Terry McGriff"
+    },
+    {
+        "cardNumber": 645,
+        "cardTitle": "Matt Nokes"
+    },
+    {
+        "cardNumber": 646,
+        "cardTitle": "Checklist 529-660"
+    },
+    {
+        "cardNumber": 647,
+        "cardTitle": "Pascual Perez"
+    },
+    {
+        "cardNumber": 648,
+        "cardTitle": "Al Newman"
+    },
+    {
+        "cardNumber": 649,
+        "cardTitle": "De Wayne Buice"
+    },
+    {
+        "cardNumber": 650,
+        "cardTitle": "Cal Ripken, Jr."
+    },
+    {
+        "cardNumber": 651,
+        "cardTitle": "Michael Jackson"
+    },
+    {
+        "cardNumber": 652,
+        "cardTitle": "Bruce Benedict"
+    },
+    {
+        "cardNumber": 653,
+        "cardTitle": "Jeff Sellers"
+    },
+    {
+        "cardNumber": 654,
+        "cardTitle": "Roger Craig - Manager"
+    },
+    {
+        "cardNumber": 655,
+        "cardTitle": "Lenny Dykstra"
+    },
+    {
+        "cardNumber": 656,
+        "cardTitle": "Lee Guetterman"
+    },
+    {
+        "cardNumber": 657,
+        "cardTitle": "Gary Redus"
+    },
+    {
+        "cardNumber": 658,
+        "cardTitle": "Tim Conroy"
+    },
+    {
+        "cardNumber": 659,
+        "cardTitle": "Bob Meacham"
+    },
+    {
+        "cardNumber": 660,
+        "cardTitle": "Rick Reuschel"
+    },
+    {
+        "cardNumber": 661,
+        "cardTitle": "Nolan Ryan - Turn Back the Clock 1983"
+    },
+    {
+        "cardNumber": 662,
+        "cardTitle": "Jim Rice - Turn Back the Clock 1978"
+    },
+    {
+        "cardNumber": 663,
+        "cardTitle": "Ron Blomberg - Turn Back the Clock 1973"
+    },
+    {
+        "cardNumber": 664,
+        "cardTitle": "Bob Gibson - Turn Back the Clock 1968"
+    },
+    {
+        "cardNumber": 665,
+        "cardTitle": "Stan Musial - Turn Back the Clock 1963"
+    },
+    {
+        "cardNumber": 666,
+        "cardTitle": "Mario Soto"
+    },
+    {
+        "cardNumber": 667,
+        "cardTitle": "Luis Quinones"
+    },
+    {
+        "cardNumber": 668,
+        "cardTitle": "Walt Terrell"
+    },
+    {
+        "cardNumber": 669,
+        "cardTitle": "Lance Parrish/Mike Ryan - Phillies Leaders"
+    },
+    {
+        "cardNumber": 670,
+        "cardTitle": "Dan Plesac"
+    },
+    {
+        "cardNumber": 671,
+        "cardTitle": "Tim Laudner"
+    },
+    {
+        "cardNumber": 672,
+        "cardTitle": "Jody Davis"
+    },
+    {
+        "cardNumber": 673,
+        "cardTitle": "Tony Phillips"
+    },
+    {
+        "cardNumber": 674,
+        "cardTitle": "Justin Fitzgerald"
+    },
+    {
+        "cardNumber": 675,
+        "cardTitle": "Jim Rice"
+    },
+    {
+        "cardNumber": 676,
+        "cardTitle": "Ken Dixon"
+    },
+    {
+        "cardNumber": 677,
+        "cardTitle": "Eddie Milner"
+    },
+    {
+        "cardNumber": 678,
+        "cardTitle": "Jim Acker"
+    },
+    {
+        "cardNumber": 679,
+        "cardTitle": "Darrell Miller"
+    },
+    {
+        "cardNumber": 680,
+        "cardTitle": "Charlie Hough"
+    },
+    {
+        "cardNumber": 681,
+        "cardTitle": "Bobby Bonilla"
+    },
+    {
+        "cardNumber": 682,
+        "cardTitle": "Jimmy Key"
+    },
+    {
+        "cardNumber": 683,
+        "cardTitle": "Julio Franco"
+    },
+    {
+        "cardNumber": 684,
+        "cardTitle": "Hal Lanier - Manager"
+    },
+    {
+        "cardNumber": 685,
+        "cardTitle": "Ron Darling"
+    },
+    {
+        "cardNumber": 686,
+        "cardTitle": "Terry Francona"
+    },
+    {
+        "cardNumber": 687,
+        "cardTitle": "Mickey Brantley"
+    },
+    {
+        "cardNumber": 688,
+        "cardTitle": "Jim Winn"
+    },
+    {
+        "cardNumber": 689,
+        "cardTitle": "Tom Pagnozzi"
+    },
+    {
+        "cardNumber": 690,
+        "cardTitle": "Jay Howell"
+    },
+    {
+        "cardNumber": 691,
+        "cardTitle": "Dan Pasqua"
+    },
+    {
+        "cardNumber": 692,
+        "cardTitle": "Mike Birkbeck"
+    },
+    {
+        "cardNumber": 693,
+        "cardTitle": "Benito Santiago"
+    },
+    {
+        "cardNumber": 694,
+        "cardTitle": "Eric Nolte"
+    },
+    {
+        "cardNumber": 695,
+        "cardTitle": "Shawon Dunston"
+    },
+    {
+        "cardNumber": 696,
+        "cardTitle": "Duane Ward"
+    },
+    {
+        "cardNumber": 697,
+        "cardTitle": "Steve Lombardozzi"
+    },
+    {
+        "cardNumber": 698,
+        "cardTitle": "Brad Havens"
+    },
+    {
+        "cardNumber": 699,
+        "cardTitle": "Tony Gwynn/Benito Santiago"
+    },
+    {
+        "cardNumber": 700,
+        "cardTitle": "George Brett"
+    },
+    {
+        "cardNumber": 701,
+        "cardTitle": "Sammy Stewart"
+    },
+    {
+        "cardNumber": 702,
+        "cardTitle": "Mike Gallego"
+    },
+    {
+        "cardNumber": 703,
+        "cardTitle": "Bob Brenly"
+    },
+    {
+        "cardNumber": 704,
+        "cardTitle": "Oil Can Boyd - Dennis Boyd on Card"
+    },
+    {
+        "cardNumber": 705,
+        "cardTitle": "Juan Samuel"
+    },
+    {
+        "cardNumber": 706,
+        "cardTitle": "Rick Mahler"
+    },
+    {
+        "cardNumber": 707,
+        "cardTitle": "Fred Lynn"
+    },
+    {
+        "cardNumber": 708,
+        "cardTitle": "Gus Polidor"
+    },
+    {
+        "cardNumber": 709,
+        "cardTitle": "George Frazier"
+    },
+    {
+        "cardNumber": 710,
+        "cardTitle": "Darryl Strawberry"
+    },
+    {
+        "cardNumber": 711,
+        "cardTitle": "Bill Gullickson"
+    },
+    {
+        "cardNumber": 712,
+        "cardTitle": "John Moses"
+    },
+    {
+        "cardNumber": 713,
+        "cardTitle": "Willie Hernandez"
+    },
+    {
+        "cardNumber": 714,
+        "cardTitle": "Jim Fregosi - Manager"
+    },
+    {
+        "cardNumber": 715,
+        "cardTitle": "Todd Worrell"
+    },
+    {
+        "cardNumber": 716,
+        "cardTitle": "Lenn Sakata"
+    },
+    {
+        "cardNumber": 717,
+        "cardTitle": "Jay Baller"
+    },
+    {
+        "cardNumber": 718,
+        "cardTitle": "Mike Felder"
+    },
+    {
+        "cardNumber": 719,
+        "cardTitle": "Denny Walling"
+    },
+    {
+        "cardNumber": 720,
+        "cardTitle": "Tim Raines"
+    },
+    {
+        "cardNumber": 721,
+        "cardTitle": "Pete O'Brien"
+    },
+    {
+        "cardNumber": 722,
+        "cardTitle": "Manuel Lee"
+    },
+    {
+        "cardNumber": 723,
+        "cardTitle": "Bob Kipper"
+    },
+    {
+        "cardNumber": 724,
+        "cardTitle": "Danny Tartabull"
+    },
+    {
+        "cardNumber": 725,
+        "cardTitle": "Mike Boddicker"
+    },
+    {
+        "cardNumber": 726,
+        "cardTitle": "Alfredo Griffin"
+    },
+    {
+        "cardNumber": 727,
+        "cardTitle": "Greg Booker"
+    },
+    {
+        "cardNumber": 728,
+        "cardTitle": "Andy Allanson"
+    },
+    {
+        "cardNumber": 729,
+        "cardTitle": "George Bell/Fred McGriff - Blue Jays Leaders"
+    },
+    {
+        "cardNumber": 730,
+        "cardTitle": "John Franco"
+    },
+    {
+        "cardNumber": 731,
+        "cardTitle": "Rick Schu"
+    },
+    {
+        "cardNumber": 732,
+        "cardTitle": "Dave Palmer"
+    },
+    {
+        "cardNumber": 733,
+        "cardTitle": "Spike Owen"
+    },
+    {
+        "cardNumber": 734,
+        "cardTitle": "Craig Lefferts"
+    },
+    {
+        "cardNumber": 735,
+        "cardTitle": "Kevin McReynolds"
+    },
+    {
+        "cardNumber": 736,
+        "cardTitle": "Matt Young"
+    },
+    {
+        "cardNumber": 737,
+        "cardTitle": "Butch Wynegar"
+    },
+    {
+        "cardNumber": 738,
+        "cardTitle": "Scott Bankhead"
+    },
+    {
+        "cardNumber": 739,
+        "cardTitle": "Daryl Boston"
+    },
+    {
+        "cardNumber": 740,
+        "cardTitle": "Rick Sutcliffe"
+    },
+    {
+        "cardNumber": 741,
+        "cardTitle": "Mike Easler"
+    },
+    {
+        "cardNumber": 742,
+        "cardTitle": "Mark Clear"
+    },
+    {
+        "cardNumber": 743,
+        "cardTitle": "Larry Herndon"
+    },
+    {
+        "cardNumber": 744,
+        "cardTitle": "Whitey Herzog - Manager"
+    },
+    {
+        "cardNumber": 745,
+        "cardTitle": "Bill Doran"
+    },
+    {
+        "cardNumber": 746,
+        "cardTitle": "Gene Larkin"
+    },
+    {
+        "cardNumber": 747,
+        "cardTitle": "Bobby Witt"
+    },
+    {
+        "cardNumber": 748,
+        "cardTitle": "Reid Nichols"
+    },
+    {
+        "cardNumber": 749,
+        "cardTitle": "Mark Eichhorn"
+    },
+    {
+        "cardNumber": 750,
+        "cardTitle": "Bo Jackson"
+    },
+    {
+        "cardNumber": 751,
+        "cardTitle": "Jim Morrison"
+    },
+    {
+        "cardNumber": 752,
+        "cardTitle": "Mark Grant"
+    },
+    {
+        "cardNumber": 753,
+        "cardTitle": "Danny Heep"
+    },
+    {
+        "cardNumber": 754,
+        "cardTitle": "Mike LaCoss"
+    },
+    {
+        "cardNumber": 755,
+        "cardTitle": "Ozzie Virgil"
+    },
+    {
+        "cardNumber": 756,
+        "cardTitle": "Mike Maddux"
+    },
+    {
+        "cardNumber": 757,
+        "cardTitle": "John Marzano"
+    },
+    {
+        "cardNumber": 758,
+        "cardTitle": "Eddie Williams"
+    },
+    {
+        "cardNumber": 759,
+        "cardTitle": "Jose Canseco/Mark McGwire - As Leaders"
+    },
+    {
+        "cardNumber": 760,
+        "cardTitle": "Mike Scott"
+    },
+    {
+        "cardNumber": 761,
+        "cardTitle": "Tony Armas"
+    },
+    {
+        "cardNumber": 762,
+        "cardTitle": "Scott Bradley"
+    },
+    {
+        "cardNumber": 763,
+        "cardTitle": "Doug Sisk"
+    },
+    {
+        "cardNumber": 764,
+        "cardTitle": "Greg Walker"
+    },
+    {
+        "cardNumber": 765,
+        "cardTitle": "Neal Heaton"
+    },
+    {
+        "cardNumber": 766,
+        "cardTitle": "Henry Cotto"
+    },
+    {
+        "cardNumber": 767,
+        "cardTitle": "Jose Lind"
+    },
+    {
+        "cardNumber": 768,
+        "cardTitle": "Dickie Noles"
+    },
+    {
+        "cardNumber": 769,
+        "cardTitle": "Cecil Cooper"
+    },
+    {
+        "cardNumber": 770,
+        "cardTitle": "Lou Whitaker"
+    },
+    {
+        "cardNumber": 771,
+        "cardTitle": "Ruben Sierra"
+    },
+    {
+        "cardNumber": 772,
+        "cardTitle": "Sal Butera"
+    },
+    {
+        "cardNumber": 773,
+        "cardTitle": "Frank Williams"
+    },
+    {
+        "cardNumber": 774,
+        "cardTitle": "Gene Mauch - Manager"
+    },
+    {
+        "cardNumber": 775,
+        "cardTitle": "Dave Stieb"
+    },
+    {
+        "cardNumber": 776,
+        "cardTitle": "Checklist 661-792"
+    },
+    {
+        "cardNumber": 777,
+        "cardTitle": "Lonnie Smith"
+    },
+    {
+        "cardNumber": 778,
+        "cardTitle": "Keith Comstock"
+    },
+    {
+        "cardNumber": 779,
+        "cardTitle": "Tom Glavine"
+    },
+    {
+        "cardNumber": 780,
+        "cardTitle": "Fernando Valenzuela"
+    },
+    {
+        "cardNumber": 781,
+        "cardTitle": "Keith Hughes"
+    },
+    {
+        "cardNumber": 782,
+        "cardTitle": "Jeff Ballard"
+    },
+    {
+        "cardNumber": 783,
+        "cardTitle": "Ron Roenicke"
+    },
+    {
+        "cardNumber": 784,
+        "cardTitle": "Joe Sambito"
+    },
+    {
+        "cardNumber": 785,
+        "cardTitle": "Alvin Davis"
+    },
+    {
+        "cardNumber": 786,
+        "cardTitle": "Joe Price"
+    },
+    {
+        "cardNumber": 787,
+        "cardTitle": "Bill Almon"
+    },
+    {
+        "cardNumber": 788,
+        "cardTitle": "Ray Searage"
+    },
+    {
+        "cardNumber": 789,
+        "cardTitle": "Joe Carter/Cory Snyder - Indians Leaders"
+    },
+    {
+        "cardNumber": 790,
+        "cardTitle": "Dave Righetti"
+    },
+    {
+        "cardNumber": 791,
+        "cardTitle": "Ted Simmons"
+    },
+    {
+        "cardNumber": 792,
+        "cardTitle": "John Tudor"
+    }
+]

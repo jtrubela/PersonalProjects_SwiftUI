@@ -12,6 +12,7 @@ struct ContentView: View {
     
     @StateObject var newMovies = Movies()
     @StateObject var completedMovies = WatchedMovies()
+    @State var watchedMovies: [Movies] = []
     @State private var addMovieViewIsShowing = false
     @State private var addCompletedMovieView = false
 
@@ -28,20 +29,6 @@ struct ContentView: View {
                                 Text(title.name)
                                     .font(.headline)
                             }
-//                            .swipeActions {
-//                                Button {
-//                                    completedMovies.watchedTitles.append(?)
-//                                } label: {
-//                                    Text("Completed")
-//                                }
-//                                .tint(.blue)
-////                                Button {
-////
-////                                } label: {
-////                                    Text("Delete")
-////                                }
-//                            }
-                            .onDelete(perform: removeMovie)
                         }
                         .listStyle(.sidebar)
                     }
