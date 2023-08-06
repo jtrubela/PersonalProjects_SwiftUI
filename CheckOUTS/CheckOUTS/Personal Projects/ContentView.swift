@@ -4,14 +4,17 @@
 //
 //  Created by Justin Trubela
 //
+// iphone 14 pro
+//
+//   Personal Projects
 
 import SwiftUI
 
 struct ContentView: View {
     // View states
-    @State var homeScreenView = true
+    @State var homeScreenView = false
     @State var statsScreenView = false
-    @State var gameView = false
+    @State var gameView = true
     @State var whatsMyOutScreenView = false
     @State var hitOutScreenView = false
     @State var checkoutViewMissed = false
@@ -368,7 +371,7 @@ struct ContentView: View {
                     Spacer()
                 }
             }
-            else if statsScreenView{
+            /*else if statsScreenView{
                 VStack{
                     HStack{
                         Button("Back to 501"){
@@ -444,7 +447,126 @@ struct ContentView: View {
                         Spacer()
                     }.foregroundColor(.white)
                 }
+            }*/
+            else if statsScreenView{
+                VStack{
+                    HStack{
+                        Button("Play 501"){
+                            statsScreenView.toggle()
+                            gameView.toggle()
+                        }.padding(30)
+                        Spacer()
+                        Button("Main Menu"){
+                            statsScreenView.toggle()
+                            homeScreenView.toggle()
+                        }.padding(30)
+                    }
+                    Spacer()
+                    Text("Today's Statistics").foregroundColor(.white).font(.title.bold())
+                    Spacer()
+                    VStack{
+                        Spacer()
+                        //501 STATISTICS
+                        Section{
+                            HStack{
+                                Spacer()
+                                //Home
+                                Section{
+                                    VStack{
+                                        Text("\(player1Name)").foregroundColor(.yellow).font(.title3.bold())
+                                        //Darts thrown
+                                        Text("Darts Thrown: \(dartsThrownHome)")
+                                        //Highest Turn
+                                        Text("Highest Turn: \(highestTurnHome)")
+                                        //3 Dart Average
+                                        Text("3 Dart Avg.: \(calculate3DartAverageHome)")
+                                        //Check Out Percentage
+                                        Text("Checkout %: \(calculateOutAverage)")
+                                        //Matches Won/Lost
+                                        Text("Matches Won: 1")
+                                        Text("Matches Lost: 0")
+                                    }
+                                }
+                                Spacer()
+                                //Away
+                                Section{
+                                    VStack{
+                                        Text("\(player2Name)").foregroundColor(.yellow).font(.title3.bold())
+                                        //Darts thrown
+                                        Text("Darts Thrown: \(dartsThrownAway)")
+                                        //Highest Turn
+                                        Text("Highest Turn: \(highestTurnAway)")
+                                        //3 Dart Average
+                                        Text("3 Dart Avg.: \(calculate3DartAverageAway)")
+                                        //Check Out Percentage
+                                        Text("Checkout %: \(calculateOutAverage)")
+                                        //Matches Won/Lost
+                                        Text("Matches Won: 0")
+                                        Text("Matches Lost: 1")
+                                    }
+                                }
+                                Spacer()
+                            }
+                        } header: {
+                            Text("501").font(.title2)
+                        }
+                        Spacer()
+                        //CRICKET STATISTICS
+                        Section{
+                            Text("Under Construction").foregroundColor(.red)
+                            HStack{
+                                Spacer()
+                                VStack{
+                                    Text("\(player1Name)").foregroundColor(.yellow).font(.title3.bold())
+                                    
+                                    Text("9 Marks: 0")
+                                    Text("7 Marks: 0")
+                                    Text("6 Marks: 0")
+                                    Text("5 Marks: 0")
+                                    Text("Darts Thrown: 0")
+                                    Text("Marks/Round: ")
+                                    Text("0.0 MPR")
+                                    Text("Matches Won: 0")
+                                    Text("Matches Lost: 0")
+                                }
+                                Spacer()
+                                VStack{
+                                    Text("\(player2Name)").foregroundColor(.yellow).font(.title3.bold())
+                                    
+                                    Text("9 Marks: 0")
+                                    Text("7 Marks: 0")
+                                    Text("6 Marks: 0")
+                                    Text("5 Marks: 0")
+                                    Text("Darts Thrown: 0")
+                                    Text("Marks/Round: ")
+                                    Text("0.0 MPR")
+                                    Text("Matches Won: 0")
+                                    Text("Matches Lost: 0")
+                                }
+                                Spacer()
+                            }
+                            
+                            
+                            
+                        } header: {
+                            Text("Cricket").font(.title2)
+                        }
+                        Spacer()
+                        //PRACTICE STATISTICS
+                        Section{
+                            
+                            Text("Attempts: \(practiceAttempts)")
+                            Text("Attempts Hit: \(practiceHits)")
+                            Text("Attempts Missed: \(practiceMisses)")
+                        } header: {
+                            Text("Practice").font(.title2)
+                        }
+                        Spacer()
+                    }.foregroundColor(.white)
+                }
             }
+
+            
             else if gameView {
                 VStack{
                     Button("Quit"){
