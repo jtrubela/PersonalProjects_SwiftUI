@@ -23,15 +23,43 @@ struct GameModel {
     @FocusState  var amountIsFocused: Bool
 
     
+    // View states
+    @State var homeScreenView = true
+    @State var statsScreenView = false
+    @State var gameView = false
+    @State var whatsMyOutScreenView = false
+    @State var hitOutScreenView = false
+    @State var checkoutViewMissed = false
+    @State var practiceView = false
+    @State var cricketView = false
+    @State var loginMenuView = false
     
     
+    func succesfulOut(){
+        outSuccessAlert = true
+    }
     
+    func checkoutSuccess (){
+        outSuccessAlert.toggle()
+    }
     
-    //Darts Checkouts Data
-    @State var validOuts = Checkouts().validOuts
-    @State var invalidOuts = Checkouts().invalidOuts
-    @State var practiceNumbers = Checkouts().practiceNumbers.shuffled()
-
+    // JSON files
+    let Checkout1: Checkout = Bundle().decode("CheckoutOption1.json")
+    let Checkout2: Checkout = Bundle().decode("CheckoutOption2.json")
+    let Checkout3: Checkout = Bundle().decode("CheckoutOption3.json")
+    
+    //Constant Data
+    let validOuts = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,
+                     26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,
+                     51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,
+                     76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,
+                     101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,
+                     120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,
+                     141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,160,161,164,167,170]
+    
+    let invalidOuts = [169,168,166,165,163,162,159]
+    
+    @State var practiceNumbers = ["T1", "D1", "S1","T2", "D2", "S2","T3", "D3", "S3","T4", "D4", "S4","T5", "D5", "S5","T6", "D6", "S6","T7", "D7", "S7","T8", "D8", "S8","T9", "D9", "S9","T10", "D10", "S10","T11", "D11", "S11","T12", "D12", "S12","T13", "D13", "S13","T14","D14", "S14","T15", "D15", "S15","T16", "D16", "S16","T17", "D17","S17","T18", "D18", "S18","T19", "D19", "S19","T20", "D20", "S20", "DB", "SB"].shuffled()
     
     
     
@@ -47,13 +75,177 @@ struct GameModel {
     
     //Whats my out
     func getOut() {
-        if player1_501.isTurn{
-            thisOut = player1_501.points
+        if player1Turn{
+            thisOut = player1Points
         }
         else{
-            thisOut = player2_501.points
+            thisOut = player2Points
         }
     }
+    
+    
+    //Play 501
+    //Home
+    var calculationButtons = [" + ", "0", " * "]
+    @State var player1Turn = true
+    @State var player1Name = "Home"
+    @State var player1Points = 501
+    @State var player1Scores = [Int]()
+    //Away
+    @State var player2Turn = false
+    @State var player2Name = "Away"
+    @State var player2Points = 501
+    @State var player2Scores = [Int]()
+    //Other
+    @State var currentScore = 0
+    @State var lastScore = 0
+    @State var calculationString = "0"
+    @State var undoLastTurn = 0
+    
+    func changeTurns(){
+        //Changes LED Status for player in 501 game
+        player1Turn.toggle()
+        player2Turn.toggle()
+    }
+    func undoTurn() {
+        //UNDOING LAST TURN FOR PLAYER
+        //While player?'s turn and player? has scored more than 1 turn prior
+        //set calc string to 0
+        //get last turns points
+        //deduct last turns points from total points earned for stats sheet
+        //deduct 3 darts from total darts thrown
+        //add back the points that were taken away from last round
+        //put the last turns points in the calculation bar
+        //remove the last turns points from the list of points
+        changeTurns()
+        calculationString = "0"
+        
+        if player1Turn && player1Scores.count > 0 && player1Points != 501{
+            let endOfPlayer1Scores = player1Scores.count-1
+            totalPointsEarnedHome -=  endOfPlayer1Scores
+            dartsThrownHome -= 3
+            player1Points += player1Scores[endOfPlayer1Scores] as! Int
+            calculationString = "\(player1Scores[player1Scores.count-1])"
+            player1Scores.removeLast()
+            changeTurns()
+        }
+        else if player2Turn && player2Scores.count > 0 && player2Points != 501{
+            let endOfPlayer2Scores = player2Scores.count-1
+            totalPointsEarnedAway -=  endOfPlayer2Scores
+            dartsThrownAway -= 3
+            player2Points += player2Scores[endOfPlayer2Scores] as! Int
+            calculationString = "\(player2Scores[player2Scores.count-1])"
+            player2Scores.removeLast()
+            changeTurns()
+        }
+        changeTurns()
+    }
+    func restartGame(){
+        //Restart game points 501
+        //Empty player1 & player2 point arrays
+        //Reset calculation string
+        player1Points = 501
+        player2Points = 501
+        player1Scores.removeAll()
+        player2Scores.removeAll()
+        resetCalculationString()
+    }
+    func resetCalculationString(){
+        calculationString = "0"
+    }
+    
+    func appendToCalculationString(text: String){
+        if calculationString == "0"{
+            calculationString = ""
+            calculationString += "\(text)"
+        }
+        else{
+            calculationString += "\(text)"
+        }
+    }
+    
+    
+    
+    //Cricket variables
+    //Home
+    @State var player1CRICKETPoints = 0
+    //Away
+    @State var player2CRICKETpoints = 0
+    
+    //------------------------------------------------------------------------------------------------------------
+    //                          STATISTICS VARIABLES/FUNCTIONS/COMPUTED PROPERTIES
+    //------------------------------------------------------------------------------------------------------------
+    //Home
+    @State var dartsThrownHome = 0
+    @State var ThreeDartAverageHome = 0.0
+    @State var highestTurnHome = 0
+    @State var attemptsAtOutHome = 0
+    @State var totalPointsEarnedHome = 0
+    @State var dartsThrownAtOutHome = 0
+    //Away
+    @State var dartsThrownAway = 0
+    @State var ThreeDartAverageAway = 0.0
+    @State var highestTurnAway = 0
+    @State var attemptsAtOutAway = 0
+    @State var totalPointsEarnedAway = 0
+    @State var dartsThrownAtOutAway = 0
+    //Other
+    func checkHighestScore(_ : Int){
+        // Update new highest turn score for player?
+        if player1Turn && currentScore > highestTurnHome {
+            highestTurnHome = currentScore
+        }
+        if player2Turn && currentScore > highestTurnAway {
+            highestTurnAway = currentScore
+        }
+    }
+    
+    var calculate3DartAverageHome: String {
+        dartsThrownHome > 0 ? "\((totalPointsEarnedHome/dartsThrownHome)*3) PPR" : "0.0 PPR"
+    }
+    var calculate3DartAverageAway: String {
+        dartsThrownAway > 0 ? "\((totalPointsEarnedAway/dartsThrownAway)*3) PPR" : "0.0 PPR"
+    }
+    
+    var calculateOutAverage: String {
+        if (player1Turn){
+            if (attemptsAtOutHome > 0) {
+                return "\(attemptsAtOutHome/dartsThrownAtOutHome) %"
+            }
+        }
+        else if (player2Turn) {
+            if (attemptsAtOutAway > 0){
+                return "\(attemptsAtOutAway/dartsThrownAtOutAway) %"
+            }
+        }
+        return "0.0 %"
+    }
+    
+    
+    //Practice game variables
+    @State private var practiceHits = 0
+    @State private var practiceMisses = 0
+    @State private var practiceAttempts = 0
+    @State private var practice_HighestHit = 0
+    @State private var currentPracticeNumber = 0
+    
+    var randNum = Int.random(in: 1..<62)
+    
+    var getPracticeNumber: String {
+        return practiceNumbers[randNum]
+    }
+    
+    
+    
+    //Darts Checkouts Data
+//    @State var validOuts = GameModel().validOuts
+//    @State var invalidOuts = Checkouts().invalidOuts
+//    @State var practiceNumbers = Checkouts().practiceNumbers.shuffled()
+//
+//    
+    
+    
+
     
 //    struct Scoring {
 //        var points: Int
@@ -75,12 +267,6 @@ struct GameModel {
     struct Calculator {
         var buttons = [" + ", "0", " * "]
     }
-    
-    
-    
-    //Play 501
-    //Home
-    var calculationButtons = [" + ", "0", " * "]
     
     
     
@@ -138,9 +324,6 @@ struct GameModel {
 //    @State var currentScore = 0
 //    @State var lastScore = 0
     
-    @State var calculationString = "0"
-    @State var undoLastTurn = 0
-    
     var winner: String {
         var thisWinner = ""
         if player1_501.points == 0{
@@ -152,19 +335,6 @@ struct GameModel {
         return thisWinner
     }
 
-    
-//TODO: Implement Cricket studds
-    //Cricket variables
-    //Home
-    @State  var player1CRICKETPoints = 0
-//    @State var player1_cricket = Player(isTurn: true, name: "", points: 0)
-
-    //Away
-    @State  var player2CRICKETpoints = 0
-//    @State var player2_cricket = Player(isTurn: false, name: "", points: 0)
-    
-    
-    
     
     
     
@@ -194,15 +364,6 @@ struct GameModel {
 //    @State  var totalPointsEarnedAway = 0
 //    @State  var dartsThrownAtOutAway = 0
     //Other
-    func checkHighestScore(_ : Int){
-        // Update new highest turn score for player?
-        if player1_501.isTurn && player1_501.currentScore > player1_501.highestTurn {
-            player1_501.highestTurn = player1_501.currentScore
-        }
-        if player2_501.isTurn && player2_501.currentScore > player2_501.highestTurn {
-            player2_501.highestTurn = player2_501.currentScore
-        }
-    }
 
     func calculate3DartAverage() -> String {
         if (player1_501.isTurn){
@@ -222,21 +383,7 @@ struct GameModel {
     }
 
 
-    var calculateOutAverage: String {
-        if (player1_501.isTurn){
-            if (player1_501.attemptsAtOut > 0) {
-                return "\(player1_501.attemptsAtOut/player1_501.dartsThrownAtOut) %"
-            }
-        }
-        else if (player2_501.isTurn) {
-            if (player2_501.attemptsAtOut > 0){
-                return "\(player2_501.attemptsAtOut/player2_501.dartsThrownAtOut) %"
-            }
-        }
-        return "0.0 %"
-    }
-    
-    
+
     
     
     
@@ -255,12 +402,7 @@ struct GameModel {
 //    @State  var practice_HighestHit = 0
 //    @State  var currentPracticeNumber = 0
 //
-    var randNum = Int.random(in: 1..<62)
-    
-    var getPracticeNumber: String {
-        return practiceNumbers[randNum]
-    }
-    
+
     
     //    var body: some View {
     

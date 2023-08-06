@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct HitOutScreenView: View {
-    @State var invalidOuts = Checkouts().invalidOuts
+    @State var invalidOuts = GameModel().invalidOuts
     @State var thisOut = GameModel().thisOut
     @State var noOutTitle = GameModel().noOutTitle
     @State var noOutFailureAlert = GameModel().noOutFailureAlert

@@ -7,11 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3D2C0ECC2A275991002229D1 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C0EA82A275990002229D1 /* Player.swift */; };
-		3D2C0ECD2A275991002229D1 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C0EA92A275990002229D1 /* GameModel.swift */; };
-		3D2C0ECF2A275991002229D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D2C0EAC2A275990002229D1 /* Assets.xcassets */; };
-		3D2C0ED02A275991002229D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D2C0EAE2A275990002229D1 /* Preview Assets.xcassets */; };
-		3D2C0ED12A275991002229D1 /* DartsCheckoutsGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D2C0EAF2A275990002229D1 /* DartsCheckoutsGameApp.swift */; };
 		3D4E4B9A2A275BEB007742D4 /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4B862A275BEA007742D4 /* ForgotPassword.swift */; };
 		3D4E4B9B2A275BEB007742D4 /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4B872A275BEA007742D4 /* RegistrationView.swift */; };
 		3D4E4B9C2A275BEB007742D4 /* LandingPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4B892A275BEA007742D4 /* LandingPageView.swift */; };
@@ -26,19 +21,19 @@
 		3D4E4BA52A275BEB007742D4 /* LoginMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4B972A275BEA007742D4 /* LoginMenuView.swift */; };
 		3D4E4BA62A275BEB007742D4 /* StatsScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4B992A275BEA007742D4 /* StatsScreenView.swift */; };
 		3D4E4BA92A275C7C007742D4 /* ViewStyling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4BA82A275C7B007742D4 /* ViewStyling.swift */; };
-		3D4E4BAF2A275C9A007742D4 /* CheckoutOption1.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D4E4BAA2A275C9A007742D4 /* CheckoutOption1.json */; };
-		3D4E4BB02A275C9A007742D4 /* CheckoutOption3.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D4E4BAB2A275C9A007742D4 /* CheckoutOption3.json */; };
-		3D4E4BB12A275C9A007742D4 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4BAC2A275C9A007742D4 /* Bundle-Decodable.swift */; };
-		3D4E4BB22A275C9A007742D4 /* Checkout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E4BAD2A275C9A007742D4 /* Checkout.swift */; };
-		3D4E4BB32A275C9A007742D4 /* CheckoutOption2.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D4E4BAE2A275C9A007742D4 /* CheckoutOption2.json */; };
+		3DAD9DC92A7F739B00CEF556 /* CheckoutOption1.json in Resources */ = {isa = PBXBuildFile; fileRef = 3DAD9DC62A7F739900CEF556 /* CheckoutOption1.json */; };
+		3DAD9DCA2A7F739B00CEF556 /* CheckoutOption2.json in Resources */ = {isa = PBXBuildFile; fileRef = 3DAD9DC72A7F739A00CEF556 /* CheckoutOption2.json */; };
+		3DAD9DCB2A7F739B00CEF556 /* CheckoutOption3.json in Resources */ = {isa = PBXBuildFile; fileRef = 3DAD9DC82A7F739B00CEF556 /* CheckoutOption3.json */; };
+		3DAD9DCD2A7F73B200CEF556 /* Checkout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAD9DCC2A7F73B200CEF556 /* Checkout.swift */; };
+		3DAD9DCF2A7F73BB00CEF556 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAD9DCE2A7F73BA00CEF556 /* Bundle-Decodable.swift */; };
+		3DAD9DD32A7F740A00CEF556 /* GameModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAD9DD12A7F740900CEF556 /* GameModel.swift */; };
+		3DAD9DD42A7F740A00CEF556 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAD9DD22A7F740A00CEF556 /* Player.swift */; };
+		3DAD9DD62A7F743600CEF556 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DAD9DD52A7F743600CEF556 /* Assets.xcassets */; };
+		3DAD9DD92A7F748300CEF556 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DAD9DD82A7F748300CEF556 /* Preview Assets.xcassets */; };
+		3DAD9DDB2A7F749C00CEF556 /* DartsCheckoutsGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DAD9DDA2A7F749C00CEF556 /* DartsCheckoutsGameApp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3D2C0EA82A275990002229D1 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/ViewModels/Player.swift; sourceTree = "<absolute>"; };
-		3D2C0EA92A275990002229D1 /* GameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameModel.swift; path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/ViewModels/GameModel.swift; sourceTree = "<absolute>"; };
-		3D2C0EAC2A275990002229D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/Assets.xcassets; sourceTree = "<absolute>"; };
-		3D2C0EAE2A275990002229D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Preview Assets.xcassets"; path = "/Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/Preview Content/Preview Assets.xcassets"; sourceTree = "<absolute>"; };
-		3D2C0EAF2A275990002229D1 /* DartsCheckoutsGameApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DartsCheckoutsGameApp.swift; path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/DartsCheckoutsGameApp.swift; sourceTree = "<absolute>"; };
 		3D4E4B862A275BEA007742D4 /* ForgotPassword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
 		3D4E4B872A275BEA007742D4 /* RegistrationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
 		3D4E4B892A275BEA007742D4 /* LandingPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingPageView.swift; sourceTree = "<group>"; };
@@ -53,11 +48,16 @@
 		3D4E4B972A275BEA007742D4 /* LoginMenuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginMenuView.swift; sourceTree = "<group>"; };
 		3D4E4B992A275BEA007742D4 /* StatsScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatsScreenView.swift; sourceTree = "<group>"; };
 		3D4E4BA82A275C7B007742D4 /* ViewStyling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewStyling.swift; sourceTree = "<group>"; };
-		3D4E4BAA2A275C9A007742D4 /* CheckoutOption1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CheckoutOption1.json; sourceTree = "<group>"; };
-		3D4E4BAB2A275C9A007742D4 /* CheckoutOption3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CheckoutOption3.json; sourceTree = "<group>"; };
-		3D4E4BAC2A275C9A007742D4 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Bundle-Decodable.swift"; path = "/Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/CheckoutJSON/Bundle-Decodable.swift"; sourceTree = "<absolute>"; };
-		3D4E4BAD2A275C9A007742D4 /* Checkout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Checkout.swift; sourceTree = "<group>"; };
-		3D4E4BAE2A275C9A007742D4 /* CheckoutOption2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CheckoutOption2.json; sourceTree = "<group>"; };
+		3DAD9DC62A7F739900CEF556 /* CheckoutOption1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CheckoutOption1.json; sourceTree = "<group>"; };
+		3DAD9DC72A7F739A00CEF556 /* CheckoutOption2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CheckoutOption2.json; sourceTree = "<group>"; };
+		3DAD9DC82A7F739B00CEF556 /* CheckoutOption3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CheckoutOption3.json; sourceTree = "<group>"; };
+		3DAD9DCC2A7F73B200CEF556 /* Checkout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Checkout.swift; sourceTree = "<group>"; };
+		3DAD9DCE2A7F73BA00CEF556 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		3DAD9DD12A7F740900CEF556 /* GameModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameModel.swift; path = CheckOUTS/ViewModels/GameModel.swift; sourceTree = SOURCE_ROOT; };
+		3DAD9DD22A7F740A00CEF556 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = CheckOUTS/ViewModels/Player.swift; sourceTree = SOURCE_ROOT; };
+		3DAD9DD52A7F743600CEF556 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = DartsCheckoutsGame/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		3DAD9DD82A7F748300CEF556 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3DAD9DDA2A7F749C00CEF556 /* DartsCheckoutsGameApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DartsCheckoutsGameApp.swift; path = CheckOUTS/DartsCheckoutsGameApp.swift; sourceTree = SOURCE_ROOT; };
 		3DF8C433276ED2D1006582E7 /* CheckOUTS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckOUTS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -72,52 +72,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3D2C0EA02A275990002229D1 /* DartsCheckoutsGame */ = {
-			isa = PBXGroup;
-			children = (
-				3D4E4B842A275BEA007742D4 /* Views */,
-				3D4E4B792A275BBA007742D4 /* CheckoutJSON */,
-				3D4E4BA72A275BF9007742D4 /* ViewStyling */,
-				3D2C0EA12A275990002229D1 /* ViewModels */,
-				3D2C0EAC2A275990002229D1 /* Assets.xcassets */,
-				3D2C0EAD2A275990002229D1 /* Preview Content */,
-				3D2C0EAF2A275990002229D1 /* DartsCheckoutsGameApp.swift */,
-			);
-			name = DartsCheckoutsGame;
-			path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS;
-			sourceTree = "<absolute>";
-		};
-		3D2C0EA12A275990002229D1 /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-				3D2C0EA82A275990002229D1 /* Player.swift */,
-				3D2C0EA92A275990002229D1 /* GameModel.swift */,
-			);
-			name = ViewModels;
-			path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/ViewModels;
-			sourceTree = "<absolute>";
-		};
-		3D2C0EAD2A275990002229D1 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				3D2C0EAE2A275990002229D1 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		3D4E4B792A275BBA007742D4 /* CheckoutJSON */ = {
-			isa = PBXGroup;
-			children = (
-				3D4E4BAC2A275C9A007742D4 /* Bundle-Decodable.swift */,
-				3D4E4BAD2A275C9A007742D4 /* Checkout.swift */,
-				3D4E4BAA2A275C9A007742D4 /* CheckoutOption1.json */,
-				3D4E4BAE2A275C9A007742D4 /* CheckoutOption2.json */,
-				3D4E4BAB2A275C9A007742D4 /* CheckoutOption3.json */,
-			);
-			name = CheckoutJSON;
-			path = /Users/justintrubela/Projects/DartsCheckoutsGame/CheckOUTS/CheckOUTS/CheckoutJSON;
-			sourceTree = "<absolute>";
-		};
 		3D4E4B842A275BEA007742D4 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -128,7 +82,7 @@
 				3D4E4B982A275BEA007742D4 /* Stats */,
 			);
 			name = Views;
-			path = CheckOUTS/Views;
+			path = DartsCheckoutsGame/Views;
 			sourceTree = SOURCE_ROOT;
 		};
 		3D4E4B852A275BEA007742D4 /* Register */ = {
@@ -209,13 +163,57 @@
 				3D4E4BA82A275C7B007742D4 /* ViewStyling.swift */,
 			);
 			name = ViewStyling;
-			path = CheckOUTS/ViewStyling;
+			path = DartsCheckoutsGame/ViewStyling;
+			sourceTree = SOURCE_ROOT;
+		};
+		3DAD9DC42A7F733600CEF556 /* DartsCheckoutsGame */ = {
+			isa = PBXGroup;
+			children = (
+				3D4E4B842A275BEA007742D4 /* Views */,
+				3DAD9DD02A7F73C400CEF556 /* ViewModels */,
+				3DAD9DC52A7F736300CEF556 /* CheckoutJSON */,
+				3D4E4BA72A275BF9007742D4 /* ViewStyling */,
+				3DAD9DD52A7F743600CEF556 /* Assets.xcassets */,
+				3DAD9DD72A7F748300CEF556 /* Preview Content */,
+				3DAD9DDA2A7F749C00CEF556 /* DartsCheckoutsGameApp.swift */,
+			);
+			path = DartsCheckoutsGame;
+			sourceTree = "<group>";
+		};
+		3DAD9DC52A7F736300CEF556 /* CheckoutJSON */ = {
+			isa = PBXGroup;
+			children = (
+				3DAD9DCE2A7F73BA00CEF556 /* Bundle-Decodable.swift */,
+				3DAD9DCC2A7F73B200CEF556 /* Checkout.swift */,
+				3DAD9DC62A7F739900CEF556 /* CheckoutOption1.json */,
+				3DAD9DC72A7F739A00CEF556 /* CheckoutOption2.json */,
+				3DAD9DC82A7F739B00CEF556 /* CheckoutOption3.json */,
+			);
+			path = CheckoutJSON;
+			sourceTree = "<group>";
+		};
+		3DAD9DD02A7F73C400CEF556 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				3DAD9DD12A7F740900CEF556 /* GameModel.swift */,
+				3DAD9DD22A7F740A00CEF556 /* Player.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		3DAD9DD72A7F748300CEF556 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3DAD9DD82A7F748300CEF556 /* Preview Assets.xcassets */,
+			);
+			name = "Preview Content";
+			path = "CheckOUTS/Preview Content";
 			sourceTree = SOURCE_ROOT;
 		};
 		3DF8C42A276ED2D1006582E7 = {
 			isa = PBXGroup;
 			children = (
-				3D2C0EA02A275990002229D1 /* DartsCheckoutsGame */,
+				3DAD9DC42A7F733600CEF556 /* DartsCheckoutsGame */,
 				3DF8C434276ED2D1006582E7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -286,11 +284,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D4E4BAF2A275C9A007742D4 /* CheckoutOption1.json in Resources */,
-				3D2C0ECF2A275991002229D1 /* Assets.xcassets in Resources */,
-				3D4E4BB02A275C9A007742D4 /* CheckoutOption3.json in Resources */,
-				3D4E4BB32A275C9A007742D4 /* CheckoutOption2.json in Resources */,
-				3D2C0ED02A275991002229D1 /* Preview Assets.xcassets in Resources */,
+				3DAD9DCA2A7F739B00CEF556 /* CheckoutOption2.json in Resources */,
+				3DAD9DC92A7F739B00CEF556 /* CheckoutOption1.json in Resources */,
+				3DAD9DCB2A7F739B00CEF556 /* CheckoutOption3.json in Resources */,
+				3DAD9DD62A7F743600CEF556 /* Assets.xcassets in Resources */,
+				3DAD9DD92A7F748300CEF556 /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,25 +299,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D2C0ED12A275991002229D1 /* DartsCheckoutsGameApp.swift in Sources */,
-				3D4E4BB22A275C9A007742D4 /* Checkout.swift in Sources */,
-				3D2C0ECC2A275991002229D1 /* Player.swift in Sources */,
+				3DAD9DDB2A7F749C00CEF556 /* DartsCheckoutsGameApp.swift in Sources */,
 				3D4E4BA22A275BEB007742D4 /* MissedOutScreenView.swift in Sources */,
+				3DAD9DD42A7F740A00CEF556 /* Player.swift in Sources */,
 				3D4E4BA42A275BEB007742D4 /* LoginViewModel.swift in Sources */,
+				3DAD9DCF2A7F73BB00CEF556 /* Bundle-Decodable.swift in Sources */,
 				3D4E4B9B2A275BEB007742D4 /* RegistrationView.swift in Sources */,
-				3D4E4BB12A275C9A007742D4 /* Bundle-Decodable.swift in Sources */,
+				3DAD9DCD2A7F73B200CEF556 /* Checkout.swift in Sources */,
 				3D4E4B9C2A275BEB007742D4 /* LandingPageView.swift in Sources */,
 				3D4E4BA62A275BEB007742D4 /* StatsScreenView.swift in Sources */,
 				3D4E4BA12A275BEB007742D4 /* HitOutScreenView.swift in Sources */,
 				3D4E4BA52A275BEB007742D4 /* LoginMenuView.swift in Sources */,
 				3D4E4BA32A275BEB007742D4 /* WhatsMyOutView.swift in Sources */,
-				3D2C0ECD2A275991002229D1 /* GameModel.swift in Sources */,
 				3D4E4BA02A275BEB007742D4 /* PracticeView.swift in Sources */,
 				3D4E4BA92A275C7C007742D4 /* ViewStyling.swift in Sources */,
 				3D4E4B9E2A275BEB007742D4 /* Play501View.swift in Sources */,
 				3D4E4B9F2A275BEB007742D4 /* Play01Model.swift in Sources */,
 				3D4E4B9D2A275BEB007742D4 /* PlayCricketView.swift in Sources */,
 				3D4E4B9A2A275BEB007742D4 /* ForgotPassword.swift in Sources */,
+				3DAD9DD32A7F740A00CEF556 /* GameModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

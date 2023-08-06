@@ -88,12 +88,12 @@ struct ContentView: View {
     @State private var player1Turn = true
     @State private var player1Name = "Home"
     @State private var player1Points = 501
-    @State private var player1Scores = []
+    @State private var player1Scores = [Int]()
     //Away
     @State private var player2Turn = false
     @State private var player2Name = "Away"
     @State private var player2Points = 501
-    @State private var player2Scores = []
+    @State private var player2Scores = [Int]()
     //Other
     @State private var currentScore = 0
     @State private var lastScore = 0
@@ -675,7 +675,7 @@ struct ContentView: View {
                             }.MakeButtonWhite()
                         }
                     }
-                    Spacer()
+//                    Spacer()
                 }
             }
             else if whatsMyOutScreenView{

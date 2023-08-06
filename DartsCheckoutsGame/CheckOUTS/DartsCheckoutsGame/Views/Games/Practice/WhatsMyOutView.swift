@@ -16,9 +16,9 @@ struct WhatsMyOutScreenView: View {
     
     @State var outSuccessAlert = GameModel().outSuccessAlert
     
-    @State var Checkout1 = Checkouts().Checkout1
-    @State var Checkout2 = Checkouts().Checkout2
-    @State var Checkout3 = Checkouts().Checkout3
+    @State var Checkout1 = GameModel().Checkout1
+    @State var Checkout2 = GameModel().Checkout2
+    @State var Checkout3 = GameModel().Checkout3
     
     @State var thisOut = GameModel().thisOut
     
