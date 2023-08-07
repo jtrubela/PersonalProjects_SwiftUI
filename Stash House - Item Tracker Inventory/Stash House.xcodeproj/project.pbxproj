@@ -14,11 +14,7 @@
 		3D304F742A8062CB008775DA /* GamesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D304F4D2A8062CB008775DA /* GamesList.swift */; };
 		3D304F752A8062CB008775DA /* Topps88CG.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D304F522A8062CB008775DA /* Topps88CG.json */; };
 		3D304F762A8062CB008775DA /* Topps88CGCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D304F542A8062CB008775DA /* Topps88CGCard.swift */; };
-		3D304F772A8062CB008775DA /* CardListItem.swift~main_0 in Resources */ = {isa = PBXBuildFile; fileRef = 3D304F572A8062CB008775DA /* CardListItem.swift~main_0 */; };
-		3D304F782A8062CB008775DA /* CardListItem.swift~HEAD_0 in Resources */ = {isa = PBXBuildFile; fileRef = 3D304F582A8062CB008775DA /* CardListItem.swift~HEAD_0 */; };
-		3D304F792A8062CB008775DA /* CardListItem.swift~main in Resources */ = {isa = PBXBuildFile; fileRef = 3D304F592A8062CB008775DA /* CardListItem.swift~main */; };
 		3D304F7A2A8062CB008775DA /* CardListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D304F5A2A8062CB008775DA /* CardListItem.swift */; };
-		3D304F7B2A8062CB008775DA /* CardListItem.swift~HEAD in Resources */ = {isa = PBXBuildFile; fileRef = 3D304F5B2A8062CB008775DA /* CardListItem.swift~HEAD */; };
 		3D304F7C2A8062CB008775DA /* CardsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D304F5C2A8062CB008775DA /* CardsList.swift */; };
 		3D304F7D2A8062CB008775DA /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D304F5F2A8062CB008775DA /* Book.swift */; };
 		3D304F7E2A8062CB008775DA /* Media.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D304F642A8062CB008775DA /* Media.json */; };
@@ -41,11 +37,7 @@
 		3D304F4D2A8062CB008775DA /* GamesList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GamesList.swift; sourceTree = "<group>"; };
 		3D304F522A8062CB008775DA /* Topps88CG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Topps88CG.json; sourceTree = "<group>"; };
 		3D304F542A8062CB008775DA /* Topps88CGCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Topps88CGCard.swift; sourceTree = "<group>"; };
-		3D304F572A8062CB008775DA /* CardListItem.swift~main_0 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CardListItem.swift~main_0"; sourceTree = "<group>"; };
-		3D304F582A8062CB008775DA /* CardListItem.swift~HEAD_0 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CardListItem.swift~HEAD_0"; sourceTree = "<group>"; };
-		3D304F592A8062CB008775DA /* CardListItem.swift~main */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CardListItem.swift~main"; sourceTree = "<group>"; };
 		3D304F5A2A8062CB008775DA /* CardListItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardListItem.swift; sourceTree = "<group>"; };
-		3D304F5B2A8062CB008775DA /* CardListItem.swift~HEAD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CardListItem.swift~HEAD"; sourceTree = "<group>"; };
 		3D304F5C2A8062CB008775DA /* CardsList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardsList.swift; sourceTree = "<group>"; };
 		3D304F5F2A8062CB008775DA /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		3D304F642A8062CB008775DA /* Media.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Media.json; sourceTree = "<group>"; };
@@ -207,11 +199,7 @@
 		3D304F562A8062CB008775DA /* View */ = {
 			isa = PBXGroup;
 			children = (
-				3D304F572A8062CB008775DA /* CardListItem.swift~main_0 */,
-				3D304F582A8062CB008775DA /* CardListItem.swift~HEAD_0 */,
-				3D304F592A8062CB008775DA /* CardListItem.swift~main */,
 				3D304F5A2A8062CB008775DA /* CardListItem.swift */,
-				3D304F5B2A8062CB008775DA /* CardListItem.swift~HEAD */,
 				3D304F5C2A8062CB008775DA /* CardsList.swift */,
 			);
 			path = View;
@@ -409,12 +397,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D304F7B2A8062CB008775DA /* CardListItem.swift~HEAD in Resources */,
-				3D304F792A8062CB008775DA /* CardListItem.swift~main in Resources */,
 				3D304F7E2A8062CB008775DA /* Media.json in Resources */,
-				3D304F782A8062CB008775DA /* CardListItem.swift~HEAD_0 in Resources */,
 				3D304F712A8062CB008775DA /* VideoGames.json in Resources */,
-				3D304F772A8062CB008775DA /* CardListItem.swift~main_0 in Resources */,
 				3D4C53702A4FD13F003E334F /* Preview Assets.xcassets in Resources */,
 				3D304F752A8062CB008775DA /* Topps88CG.json in Resources */,
 				3D4C536D2A4FD13F003E334F /* Assets.xcassets in Resources */,
