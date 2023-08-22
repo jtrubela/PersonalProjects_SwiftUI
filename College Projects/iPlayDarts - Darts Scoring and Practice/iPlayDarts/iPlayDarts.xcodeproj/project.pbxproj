@@ -46,7 +46,7 @@
 		3DBA5D0E2A7FB38600F7A651 /* ViewStyling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewStyling.swift; sourceTree = "<group>"; };
 		3DBA5D0F2A7FB38600F7A651 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DBA5D112A7FB38600F7A651 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		3DBA5D122A7FB38600F7A651 /* iPlayDarts2.0.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = iPlayDarts2.0.swift; sourceTree = "<group>"; };
+		3DBA5D122A7FB38600F7A651 /* iPlayDarts2.0.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = iPlayDarts2.0.swift; path = iPlayDarts2.0/iPlayDarts2.0.swift; sourceTree = "<group>"; };
 		3DBA5D1B2A7FB38600F7A651 /* ForgotPassword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
 		3DBA5D1C2A7FB38600F7A651 /* RegistrationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
 		3DBA5D1E2A7FB38600F7A651 /* LandingPageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingPageView.swift; sourceTree = "<group>"; };
@@ -102,9 +102,8 @@
 				3DBA5D102A7FB38600F7A651 /* Preview Content */,
 				3DBA5D122A7FB38600F7A651 /* iPlayDarts2.0.swift */,
 			);
-			name = iPlayDarts2.0;
-			path = /Users/justintrubela/Projects/PersonalProjects_SwiftUI/DartsCheckoutsGame/iPlayDarts/iPlayDarts2.0/iPlayDarts2.0/iPlayDarts2.0;
-			sourceTree = "<absolute>";
+			path = iPlayDarts2.0;
+			sourceTree = "<group>";
 		};
 		3DBA5D0A2A7FB38600F7A651 /* View Models */ = {
 			isa = PBXGroup;
@@ -112,7 +111,8 @@
 				3DBA5D0B2A7FB38600F7A651 /* Player.swift */,
 				3DBA5D0C2A7FB38600F7A651 /* GameModel.swift */,
 			);
-			path = "View Models";
+			name = "View Models";
+			path = "iPlayDarts2.0/View Models";
 			sourceTree = "<group>";
 		};
 		3DBA5D0D2A7FB38600F7A651 /* ViewStyling */ = {
@@ -128,7 +128,8 @@
 			children = (
 				3DBA5D112A7FB38600F7A651 /* Preview Assets.xcassets */,
 			);
-			path = "Preview Content";
+			name = "Preview Content";
+			path = "iPlayDarts2.0/Preview Content";
 			sourceTree = "<group>";
 		};
 		3DBA5D192A7FB38600F7A651 /* Views */ = {
@@ -141,7 +142,8 @@
 				3DBA5D2A2A7FB38600F7A651 /* Login */,
 				3DBA5D2D2A7FB38600F7A651 /* Stats */,
 			);
-			path = Views;
+			name = Views;
+			path = iPlayDarts2.0/Views;
 			sourceTree = "<group>";
 		};
 		3DBA5D1A2A7FB38600F7A651 /* Register */ = {
@@ -242,9 +244,8 @@
 				3DFABD692A7FB645004DF032 /* iPlayDarts1.0 */,
 				3DFABD662A7FB645004DF032 /* iPlayDarts1.0.swift */,
 			);
-			name = iPlayDarts1.0;
-			path = ../../CheckOUTS/iPlayDarts1.0;
-			sourceTree = "<group>";
+			path = iPlayDarts1.0;
+			sourceTree = SOURCE_ROOT;
 		};
 		3DFABD672A7FB645004DF032 /* Preview Content */ = {
 			isa = PBXGroup;
@@ -268,8 +269,9 @@
 			isa = PBXGroup;
 			children = (
 			);
-			path = ViewModels;
-			sourceTree = "<group>";
+			name = ViewModels;
+			path = iPlayDarts1.0/iPlayDarts1.0/ViewModels;
+			sourceTree = SOURCE_ROOT;
 		};
 		3DFABD6C2A7FB645004DF032 /* JSON Decoder */ = {
 			isa = PBXGroup;
