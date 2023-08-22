@@ -193,8 +193,9 @@
 			isa = PBXGroup;
 			children = (
 			);
-			path = View;
-			sourceTree = "<group>";
+			name = View;
+			path = "/Users/justintrubela/Desktop/PersonalProjects_SwiftUI/Stash House - Item Tracker Inventory/Stash House/Views/Collection Lists/View Models/ListItem/Models/Cards/Model/Topps88Cards/View";
+			sourceTree = "<absolute>";
 		};
 		3D304F562A8062CB008775DA /* View */ = {
 			isa = PBXGroup;
@@ -234,8 +235,9 @@
 			isa = PBXGroup;
 			children = (
 			);
-			path = Music;
-			sourceTree = "<group>";
+			name = Music;
+			path = "/Users/justintrubela/Desktop/PersonalProjects_SwiftUI/Stash House - Item Tracker Inventory/Stash House/Views/Collection Lists/View Models/ListItem/Models/Media/Music";
+			sourceTree = "<absolute>";
 		};
 		3D304F622A8062CB008775DA /* Movies */ = {
 			isa = PBXGroup;
