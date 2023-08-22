@@ -4,7 +4,7 @@
 //
 //  Created by Justin Trubela on 1/14/22.
 //
-
+///*
 import SwiftUI
 
 struct ContentView: View {
@@ -15,6 +15,11 @@ struct ContentView: View {
     @State private var addMovieViewIsShowing = false
     @State private var addCompletedMovieView = false
 
+    
+    @State var watchedMovies: [Movies] = []
+
+
+    
     
     @Environment(\.dismiss) var dismiss
     
@@ -84,3 +89,81 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+//*/
+
+
+//
+//  ContentView.swift
+//  Movies and Cheeseballs
+//
+//  Created by Justin Trubela on 1/14/22.
+//
+
+/*
+import SwiftUI
+
+struct ContentView: View {
+    let cheesyEmojiLine = "Movies to Watch 🧀"
+    
+    @StateObject var newMovies = Movies()
+    @StateObject var completedMovies = WatchedMovies()
+    @State var watchedMovies: [Movies] = []
+    @State private var addMovieViewIsShowing = false
+    @State private var addCompletedMovieView = false
+    
+    
+    @Environment(\.dismiss) var dismiss
+    
+    var body: some View {
+        NavigationView{
+            ZStack{
+                VStack{
+                    Section {
+                        List{
+                            ForEach(newMovies.titles){ title in
+                                Text(title.name)
+                                    .font(.headline)
+                            }
+                        }
+                        .listStyle(.sidebar)
+                    }
+                }
+            }
+            .navigationTitle(cheesyEmojiLine)
+            .toolbar {
+                HStack(spacing: 150){
+                    Button {
+                        addCompletedMovieView = true
+                    } label: {
+                        Text("Completed Movies")
+                    }
+                    .padding()
+                    Button{
+                        addMovieViewIsShowing = true
+                    } label: {
+                        Image(systemName: "plus")
+                    }
+                    .padding()
+                }
+            }
+        }
+        .sheet(isPresented: $addMovieViewIsShowing){
+            AddAMovieView(moviesToWatch: newMovies, watchedMovies: completedMovies)
+        }
+        .sheet(isPresented: $addCompletedMovieView){
+            AddCompletedMovieView(watchedMovies: completedMovies)
+        }
+    }
+    func removeMovie(at offsets: IndexSet){
+        newMovies.titles.remove(atOffsets: offsets)
+    }
+    
+}
+
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
+*/

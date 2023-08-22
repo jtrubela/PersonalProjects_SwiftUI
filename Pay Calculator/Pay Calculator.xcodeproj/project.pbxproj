@@ -58,7 +58,7 @@
 				3D83DE47269811F1009220A7 /* Info.plist */,
 				3D83DE44269811F1009220A7 /* Preview Content */,
 			);
-			path = "Pay Calculator";
+			name = "Pay Calculator";
 			sourceTree = "<group>";
 		};
 		3D83DE44269811F1009220A7 /* Preview Content */ = {
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Pay Calculator/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "Pay Calculator/Preview Content";
 				DEVELOPMENT_TEAM = 6CD78A686T;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Pay Calculator/Info.plist";
@@ -290,7 +290,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"Pay Calculator/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "Pay Calculator/Preview Content";
 				DEVELOPMENT_TEAM = 6CD78A686T;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Pay Calculator/Info.plist";

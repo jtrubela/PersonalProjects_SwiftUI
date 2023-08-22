@@ -316,3 +316,49 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 }
+
+
+struct PayCalc: View {
+    @State var payRate = 17.5
+    @State var overtimePay = 26.25
+    @State var taxRate = 0.7901
+    
+    @State var grossPay = 0.00
+    @State var netPay = 0.00
+    
+    @State var overtimeHours = 0.0
+    @State var regularHours = 40.0
+    @State var maxRegularHours = 80.0
+    
+    
+    //Week 1 Hours
+    @State var sunday1Hours = 0.0
+    @State var monday1Hours = 9.0
+    @State var tuesday1Hours = 9.0
+    @State var wednesday1Hours = 9.0
+    @State var thursday1Hours = 9.0
+    @State var friday1Hours = 9.0
+    @State var saturday1Hours = 0.0
+    
+    @State var week1Hours = 0.0
+    @State var week1OvertimeHours = 0.0
+    
+    //Week 2 Hours
+    @State var sunday2Hours = 0.0
+    @State var monday2Hours = 8.0
+    @State var tuesday2Hours = 8.0
+    @State var wednesday2Hours = 8.0
+    @State var thursday2Hours = 8.0
+    @State var friday2Hours = 8.0
+    @State var saturday2Hours = 0.0
+    
+    @State var week2Hours = 0.0
+    @State var week2OvertimeHours = 0.0
+
+    
+    var body: some View {
+        ZStack{
+            
+        }
+    }
+}
